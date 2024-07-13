@@ -1,0 +1,2237 @@
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5078242	best: 0.5078242 (0)	total: 25.1ms	remaining: 12.5s
+100:	test: 0.6492525	best: 0.6503350 (91)	total: 2.64s	remaining: 10.4s
+200:	test: 0.6711235	best: 0.6711843 (199)	total: 5.35s	remaining: 7.96s
+300:	test: 0.6762710	best: 0.6762710 (300)	total: 8.03s	remaining: 5.31s
+400:	test: 0.6773821	best: 0.6774374 (393)	total: 10.7s	remaining: 2.64s
+499:	test: 0.6793701	best: 0.6793838 (498)	total: 13.3s	remaining: 0us
+bestTest = 0.6793838143
+bestIteration = 498
+Shrink model to first 499 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5078242	best: 0.5078242 (0)	total: 25ms	remaining: 12.5s
+100:	test: 0.6702237	best: 0.6705583 (99)	total: 2.66s	remaining: 10.5s
+200:	test: 0.6759773	best: 0.6759773 (200)	total: 5.37s	remaining: 7.99s
+300:	test: 0.6803105	best: 0.6804742 (293)	total: 8.18s	remaining: 5.41s
+400:	test: 0.6829726	best: 0.6831819 (394)	total: 10.9s	remaining: 2.68s
+499:	test: 0.6834363	best: 0.6837795 (484)	total: 13.5s	remaining: 0us
+bestTest = 0.6837794781
+bestIteration = 484
+Shrink model to first 485 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5078242	best: 0.5078242 (0)	total: 27ms	remaining: 13.5s
+100:	test: 0.6771752	best: 0.6771752 (100)	total: 2.71s	remaining: 10.7s
+200:	test: 0.6815974	best: 0.6815974 (200)	total: 5.41s	remaining: 8.05s
+300:	test: 0.6852677	best: 0.6853830 (293)	total: 8.2s	remaining: 5.42s
+400:	test: 0.6856081	best: 0.6857827 (371)	total: 10.9s	remaining: 2.69s
+499:	test: 0.6851408	best: 0.6860488 (473)	total: 13.5s	remaining: 0us
+bestTest = 0.6860488355
+bestIteration = 473
+Shrink model to first 474 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5078242	best: 0.5078242 (0)	total: 28.9ms	remaining: 14.4s
+100:	test: 0.6810890	best: 0.6813509 (98)	total: 2.67s	remaining: 10.5s
+200:	test: 0.6830139	best: 0.6831466 (197)	total: 5.34s	remaining: 7.95s
+300:	test: 0.6847503	best: 0.6852261 (292)	total: 8.08s	remaining: 5.34s
+400:	test: 0.6857251	best: 0.6860683 (392)	total: 10.8s	remaining: 2.66s
+499:	test: 0.6849303	best: 0.6864044 (447)	total: 13.4s	remaining: 0us
+bestTest = 0.686404407
+bestIteration = 447
+Shrink model to first 448 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5078242	best: 0.5078242 (0)	total: 25.9ms	remaining: 12.9s
+100:	test: 0.6798923	best: 0.6800299 (97)	total: 2.68s	remaining: 10.6s
+200:	test: 0.6849536	best: 0.6849536 (200)	total: 5.36s	remaining: 7.97s
+300:	test: 0.6861083	best: 0.6870912 (283)	total: 8.11s	remaining: 5.36s
+400:	test: 0.6866882	best: 0.6872965 (335)	total: 10.8s	remaining: 2.67s
+bestTest = 0.6872964799
+bestIteration = 335
+Shrink model to first 336 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5084738	best: 0.5084738 (0)	total: 28.3ms	remaining: 14.1s
+100:	test: 0.6506866	best: 0.6518820 (96)	total: 2.62s	remaining: 10.4s
+200:	test: 0.6695410	best: 0.6695437 (199)	total: 5.25s	remaining: 7.81s
+300:	test: 0.6749203	best: 0.6749203 (300)	total: 7.95s	remaining: 5.25s
+400:	test: 0.6786869	best: 0.6786869 (400)	total: 10.7s	remaining: 2.63s
+499:	test: 0.6798137	best: 0.6798726 (486)	total: 13.3s	remaining: 0us
+bestTest = 0.6798725724
+bestIteration = 486
+Shrink model to first 487 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5084738	best: 0.5084738 (0)	total: 25.9ms	remaining: 12.9s
+100:	test: 0.6708106	best: 0.6717027 (98)	total: 2.62s	remaining: 10.3s
+200:	test: 0.6795127	best: 0.6795602 (199)	total: 5.27s	remaining: 7.84s
+300:	test: 0.6829633	best: 0.6829633 (300)	total: 7.97s	remaining: 5.27s
+400:	test: 0.6851210	best: 0.6852394 (394)	total: 10.7s	remaining: 2.63s
+499:	test: 0.6858264	best: 0.6860796 (450)	total: 13.3s	remaining: 0us
+bestTest = 0.6860795617
+bestIteration = 450
+Shrink model to first 451 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5084738	best: 0.5084738 (0)	total: 26ms	remaining: 13s
+100:	test: 0.6768973	best: 0.6771680 (98)	total: 2.67s	remaining: 10.6s
+200:	test: 0.6797471	best: 0.6797471 (200)	total: 5.36s	remaining: 7.97s
+300:	test: 0.6835499	best: 0.6838612 (292)	total: 8.06s	remaining: 5.33s
+400:	test: 0.6850677	best: 0.6852179 (393)	total: 10.8s	remaining: 2.66s
+499:	test: 0.6862697	best: 0.6867624 (473)	total: 13.5s	remaining: 0us
+bestTest = 0.6867624223
+bestIteration = 473
+Shrink model to first 474 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5084738	best: 0.5084738 (0)	total: 27.8ms	remaining: 13.9s
+100:	test: 0.6812730	best: 0.6817286 (97)	total: 2.77s	remaining: 11s
+200:	test: 0.6846664	best: 0.6847012 (198)	total: 5.48s	remaining: 8.16s
+300:	test: 0.6872901	best: 0.6877297 (290)	total: 8.2s	remaining: 5.42s
+400:	test: 0.6881389	best: 0.6884671 (327)	total: 11s	remaining: 2.71s
+bestTest = 0.688467145
+bestIteration = 327
+Shrink model to first 328 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5084738	best: 0.5084738 (0)	total: 28.4ms	remaining: 14.2s
+100:	test: 0.6804118	best: 0.6806776 (96)	total: 2.73s	remaining: 10.8s
+200:	test: 0.6832027	best: 0.6832707 (188)	total: 5.49s	remaining: 8.17s
+300:	test: 0.6846703	best: 0.6848169 (295)	total: 8.28s	remaining: 5.47s
+400:	test: 0.6853453	best: 0.6864261 (366)	total: 11s	remaining: 2.72s
+bestTest = 0.6864261031
+bestIteration = 366
+Shrink model to first 367 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 25.5ms	remaining: 12.7s
+100:	test: 0.6489863	best: 0.6506839 (86)	total: 2.71s	remaining: 10.7s
+200:	test: 0.6705132	best: 0.6705132 (200)	total: 5.36s	remaining: 7.97s
+300:	test: 0.6752197	best: 0.6752197 (300)	total: 8.08s	remaining: 5.34s
+400:	test: 0.6793580	best: 0.6793580 (400)	total: 10.8s	remaining: 2.66s
+499:	test: 0.6813241	best: 0.6813366 (481)	total: 13.5s	remaining: 0us
+bestTest = 0.6813366115
+bestIteration = 481
+Shrink model to first 482 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 25.2ms	remaining: 12.6s
+100:	test: 0.6717128	best: 0.6726654 (98)	total: 2.73s	remaining: 10.8s
+200:	test: 0.6784606	best: 0.6786014 (199)	total: 5.44s	remaining: 8.1s
+300:	test: 0.6835144	best: 0.6835375 (293)	total: 8.18s	remaining: 5.41s
+400:	test: 0.6857551	best: 0.6857882 (394)	total: 10.9s	remaining: 2.69s
+499:	test: 0.6877177	best: 0.6877362 (498)	total: 13.6s	remaining: 0us
+bestTest = 0.6877361834
+bestIteration = 498
+Shrink model to first 499 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 25.5ms	remaining: 12.7s
+100:	test: 0.6767732	best: 0.6767978 (96)	total: 2.73s	remaining: 10.8s
+200:	test: 0.6833034	best: 0.6833051 (199)	total: 5.44s	remaining: 8.09s
+300:	test: 0.6857785	best: 0.6859260 (292)	total: 8.21s	remaining: 5.43s
+400:	test: 0.6883433	best: 0.6883897 (390)	total: 10.9s	remaining: 2.7s
+499:	test: 0.6890738	best: 0.6892364 (481)	total: 13.7s	remaining: 0us
+bestTest = 0.6892363727
+bestIteration = 481
+Shrink model to first 482 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 26.2ms	remaining: 13.1s
+100:	test: 0.6813512	best: 0.6817074 (97)	total: 2.76s	remaining: 10.9s
+200:	test: 0.6861601	best: 0.6861882 (198)	total: 5.49s	remaining: 8.17s
+300:	test: 0.6884089	best: 0.6885352 (290)	total: 8.22s	remaining: 5.43s
+400:	test: 0.6895119	best: 0.6902301 (391)	total: 11s	remaining: 2.71s
+499:	test: 0.6895765	best: 0.6903017 (478)	total: 13.7s	remaining: 0us
+bestTest = 0.6903017163
+bestIteration = 478
+Shrink model to first 479 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 25.4ms	remaining: 12.7s
+100:	test: 0.6814512	best: 0.6815825 (96)	total: 2.74s	remaining: 10.8s
+200:	test: 0.6853347	best: 0.6853347 (200)	total: 5.4s	remaining: 8.04s
+300:	test: 0.6885412	best: 0.6886481 (294)	total: 8.08s	remaining: 5.34s
+bestTest = 0.6886481047
+bestIteration = 294
+Shrink model to first 295 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 25.3ms	remaining: 12.6s
+100:	test: 0.6481019	best: 0.6489938 (94)	total: 2.6s	remaining: 10.3s
+200:	test: 0.6710037	best: 0.6710037 (200)	total: 5.22s	remaining: 7.76s
+300:	test: 0.6763496	best: 0.6763496 (300)	total: 7.94s	remaining: 5.25s
+400:	test: 0.6803890	best: 0.6804180 (398)	total: 10.6s	remaining: 2.62s
+499:	test: 0.6817445	best: 0.6817982 (489)	total: 13.3s	remaining: 0us
+bestTest = 0.6817981601
+bestIteration = 489
+Shrink model to first 490 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 24.7ms	remaining: 12.3s
+100:	test: 0.6728513	best: 0.6736284 (98)	total: 2.66s	remaining: 10.5s
+200:	test: 0.6804642	best: 0.6804642 (200)	total: 5.34s	remaining: 7.94s
+300:	test: 0.6851104	best: 0.6851614 (295)	total: 8.11s	remaining: 5.36s
+400:	test: 0.6873998	best: 0.6874555 (396)	total: 10.9s	remaining: 2.69s
+499:	test: 0.6876217	best: 0.6877196 (489)	total: 13.6s	remaining: 0us
+bestTest = 0.6877195537
+bestIteration = 489
+Shrink model to first 490 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 26.6ms	remaining: 13.3s
+100:	test: 0.6792883	best: 0.6792883 (100)	total: 2.67s	remaining: 10.5s
+200:	test: 0.6831379	best: 0.6832939 (198)	total: 5.33s	remaining: 7.93s
+300:	test: 0.6863819	best: 0.6865558 (292)	total: 8.05s	remaining: 5.32s
+400:	test: 0.6881263	best: 0.6882990 (392)	total: 10.7s	remaining: 2.65s
+499:	test: 0.6894912	best: 0.6894912 (499)	total: 13.4s	remaining: 0us
+bestTest = 0.6894911528
+bestIteration = 499
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 25ms	remaining: 12.5s
+100:	test: 0.6818265	best: 0.6823867 (97)	total: 2.67s	remaining: 10.6s
+200:	test: 0.6851378	best: 0.6851600 (198)	total: 5.35s	remaining: 7.95s
+300:	test: 0.6873980	best: 0.6875722 (293)	total: 8.07s	remaining: 5.34s
+400:	test: 0.6891629	best: 0.6896008 (391)	total: 10.8s	remaining: 2.66s
+bestTest = 0.6896007657
+bestIteration = 391
+Shrink model to first 392 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 24.6ms	remaining: 12.3s
+100:	test: 0.6811063	best: 0.6813488 (96)	total: 2.67s	remaining: 10.5s
+200:	test: 0.6860135	best: 0.6860923 (198)	total: 5.33s	remaining: 7.93s
+300:	test: 0.6898552	best: 0.6898552 (300)	total: 8.06s	remaining: 5.33s
+bestTest = 0.6898554564
+bestIteration = 301
+Shrink model to first 302 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 25.6ms	remaining: 12.8s
+100:	test: 0.6485182	best: 0.6490508 (94)	total: 2.59s	remaining: 10.2s
+200:	test: 0.6718477	best: 0.6718477 (200)	total: 5.2s	remaining: 7.74s
+300:	test: 0.6763064	best: 0.6763064 (300)	total: 7.85s	remaining: 5.19s
+400:	test: 0.6805996	best: 0.6806325 (398)	total: 10.5s	remaining: 2.59s
+499:	test: 0.6826240	best: 0.6826272 (498)	total: 13.2s	remaining: 0us
+bestTest = 0.6826271713
+bestIteration = 498
+Shrink model to first 499 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 24.8ms	remaining: 12.4s
+100:	test: 0.6745645	best: 0.6745645 (100)	total: 2.61s	remaining: 10.3s
+200:	test: 0.6797347	best: 0.6797347 (200)	total: 5.25s	remaining: 7.81s
+300:	test: 0.6851266	best: 0.6852221 (295)	total: 7.91s	remaining: 5.23s
+400:	test: 0.6873258	best: 0.6874385 (396)	total: 10.5s	remaining: 2.6s
+bestTest = 0.687438488
+bestIteration = 396
+Shrink model to first 397 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 24.7ms	remaining: 12.3s
+100:	test: 0.6808272	best: 0.6808272 (100)	total: 2.63s	remaining: 10.4s
+200:	test: 0.6837032	best: 0.6838406 (198)	total: 5.26s	remaining: 7.83s
+300:	test: 0.6872940	best: 0.6875029 (290)	total: 7.93s	remaining: 5.25s
+bestTest = 0.6875028908
+bestIteration = 290
+Shrink model to first 291 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 25.3ms	remaining: 12.6s
+100:	test: 0.6823298	best: 0.6826855 (97)	total: 2.65s	remaining: 10.5s
+200:	test: 0.6852681	best: 0.6853007 (198)	total: 5.39s	remaining: 8.02s
+300:	test: 0.6874004	best: 0.6876012 (292)	total: 8.08s	remaining: 5.34s
+400:	test: 0.6895162	best: 0.6898062 (391)	total: 10.8s	remaining: 2.66s
+499:	test: 0.6908430	best: 0.6908576 (496)	total: 13.5s	remaining: 0us
+bestTest = 0.6908576488
+bestIteration = 496
+Shrink model to first 497 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 25.9ms	remaining: 12.9s
+100:	test: 0.6801271	best: 0.6803787 (97)	total: 2.72s	remaining: 10.8s
+200:	test: 0.6854017	best: 0.6854751 (198)	total: 5.52s	remaining: 8.21s
+300:	test: 0.6875886	best: 0.6878211 (291)	total: 8.28s	remaining: 5.48s
+400:	test: 0.6894236	best: 0.6895436 (392)	total: 11.1s	remaining: 2.73s
+bestTest = 0.6895436049
+bestIteration = 392
+Shrink model to first 393 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5078242	best: 0.5078242 (0)	total: 26ms	remaining: 26s
+100:	test: 0.6492525	best: 0.6503350 (91)	total: 2.67s	remaining: 23.8s
+200:	test: 0.6711235	best: 0.6711843 (199)	total: 5.42s	remaining: 21.6s
+300:	test: 0.6762710	best: 0.6762710 (300)	total: 8.11s	remaining: 18.8s
+400:	test: 0.6773821	best: 0.6774374 (393)	total: 10.8s	remaining: 16.1s
+500:	test: 0.6793835	best: 0.6793838 (498)	total: 13.4s	remaining: 13.4s
+600:	test: 0.6805359	best: 0.6809461 (569)	total: 16.1s	remaining: 10.7s
+700:	test: 0.6816303	best: 0.6817195 (666)	total: 18.8s	remaining: 8s
+800:	test: 0.6836059	best: 0.6836059 (800)	total: 21.5s	remaining: 5.34s
+900:	test: 0.6835772	best: 0.6837336 (826)	total: 24.2s	remaining: 2.66s
+bestTest = 0.6837336421
+bestIteration = 826
+Shrink model to first 827 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5078242	best: 0.5078242 (0)	total: 26ms	remaining: 25.9s
+100:	test: 0.6702236	best: 0.6705580 (99)	total: 2.68s	remaining: 23.9s
+200:	test: 0.6759771	best: 0.6759771 (200)	total: 5.37s	remaining: 21.3s
+300:	test: 0.6802822	best: 0.6804430 (293)	total: 8.09s	remaining: 18.8s
+400:	test: 0.6829433	best: 0.6831520 (394)	total: 10.8s	remaining: 16.1s
+500:	test: 0.6834704	best: 0.6837534 (484)	total: 13.4s	remaining: 13.4s
+600:	test: 0.6840104	best: 0.6840311 (599)	total: 16.1s	remaining: 10.7s
+700:	test: 0.6850267	best: 0.6851989 (696)	total: 18.8s	remaining: 8s
+800:	test: 0.6871715	best: 0.6871715 (800)	total: 21.4s	remaining: 5.32s
+900:	test: 0.6875853	best: 0.6876385 (892)	total: 24.1s	remaining: 2.64s
+999:	test: 0.6884249	best: 0.6885751 (995)	total: 26.7s	remaining: 0us
+bestTest = 0.688575089
+bestIteration = 995
+Shrink model to first 996 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5078242	best: 0.5078242 (0)	total: 25.6ms	remaining: 25.5s
+100:	test: 0.6771752	best: 0.6771752 (100)	total: 2.65s	remaining: 23.6s
+200:	test: 0.6815974	best: 0.6815974 (200)	total: 5.29s	remaining: 21.1s
+300:	test: 0.6852747	best: 0.6853923 (293)	total: 7.97s	remaining: 18.5s
+400:	test: 0.6856118	best: 0.6857874 (371)	total: 10.7s	remaining: 15.9s
+bestTest = 0.6857874095
+bestIteration = 371
+Shrink model to first 372 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5078242	best: 0.5078242 (0)	total: 24.8ms	remaining: 24.8s
+100:	test: 0.6810890	best: 0.6813509 (98)	total: 2.72s	remaining: 24.2s
+200:	test: 0.6829453	best: 0.6830774 (197)	total: 5.43s	remaining: 21.6s
+300:	test: 0.6847214	best: 0.6851889 (292)	total: 8.19s	remaining: 19s
+400:	test: 0.6856982	best: 0.6860408 (392)	total: 10.9s	remaining: 16.3s
+500:	test: 0.6849424	best: 0.6863798 (447)	total: 13.7s	remaining: 13.7s
+bestTest = 0.6863797903
+bestIteration = 447
+Shrink model to first 448 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5078242	best: 0.5078242 (0)	total: 25.7ms	remaining: 25.7s
+100:	test: 0.6798923	best: 0.6800299 (97)	total: 2.75s	remaining: 24.5s
+200:	test: 0.6849536	best: 0.6849536 (200)	total: 5.49s	remaining: 21.8s
+300:	test: 0.6861083	best: 0.6870912 (283)	total: 8.24s	remaining: 19.1s
+400:	test: 0.6866882	best: 0.6872965 (335)	total: 11s	remaining: 16.4s
+bestTest = 0.6872964799
+bestIteration = 335
+Shrink model to first 336 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5084738	best: 0.5084738 (0)	total: 26ms	remaining: 26s
+100:	test: 0.6506866	best: 0.6518820 (96)	total: 2.76s	remaining: 24.6s
+200:	test: 0.6695410	best: 0.6695437 (199)	total: 5.49s	remaining: 21.8s
+300:	test: 0.6749203	best: 0.6749203 (300)	total: 8.27s	remaining: 19.2s
+400:	test: 0.6786869	best: 0.6786869 (400)	total: 11s	remaining: 16.5s
+500:	test: 0.6798440	best: 0.6798726 (486)	total: 13.8s	remaining: 13.7s
+600:	test: 0.6811636	best: 0.6811642 (597)	total: 16.6s	remaining: 11s
+700:	test: 0.6817574	best: 0.6819403 (640)	total: 19.3s	remaining: 8.23s
+800:	test: 0.6834639	best: 0.6834713 (797)	total: 22s	remaining: 5.47s
+900:	test: 0.6839378	best: 0.6839387 (897)	total: 24.8s	remaining: 2.72s
+999:	test: 0.6844229	best: 0.6844229 (999)	total: 27.5s	remaining: 0us
+bestTest = 0.6844228804
+bestIteration = 999
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5084738	best: 0.5084738 (0)	total: 25.8ms	remaining: 25.8s
+100:	test: 0.6708106	best: 0.6717027 (98)	total: 2.68s	remaining: 23.9s
+200:	test: 0.6795127	best: 0.6795602 (199)	total: 5.32s	remaining: 21.1s
+300:	test: 0.6829633	best: 0.6829633 (300)	total: 7.99s	remaining: 18.6s
+400:	test: 0.6851210	best: 0.6852394 (394)	total: 10.6s	remaining: 15.9s
+500:	test: 0.6858697	best: 0.6860796 (450)	total: 13.3s	remaining: 13.2s
+600:	test: 0.6863745	best: 0.6866394 (549)	total: 15.9s	remaining: 10.6s
+700:	test: 0.6873466	best: 0.6873673 (688)	total: 18.7s	remaining: 7.98s
+800:	test: 0.6879373	best: 0.6879552 (799)	total: 21.4s	remaining: 5.31s
+900:	test: 0.6889318	best: 0.6889318 (900)	total: 24.1s	remaining: 2.65s
+999:	test: 0.6901959	best: 0.6901959 (999)	total: 26.7s	remaining: 0us
+bestTest = 0.6901958585
+bestIteration = 999
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5084738	best: 0.5084738 (0)	total: 24.8ms	remaining: 24.8s
+100:	test: 0.6768973	best: 0.6771680 (98)	total: 2.63s	remaining: 23.4s
+200:	test: 0.6797471	best: 0.6797471 (200)	total: 5.34s	remaining: 21.2s
+300:	test: 0.6835385	best: 0.6838612 (292)	total: 8.01s	remaining: 18.6s
+400:	test: 0.6850596	best: 0.6852089 (393)	total: 10.7s	remaining: 16s
+500:	test: 0.6863095	best: 0.6867550 (473)	total: 13.4s	remaining: 13.3s
+bestTest = 0.6867550313
+bestIteration = 473
+Shrink model to first 474 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5084738	best: 0.5084738 (0)	total: 24.9ms	remaining: 24.8s
+100:	test: 0.6812739	best: 0.6817296 (97)	total: 2.67s	remaining: 23.7s
+200:	test: 0.6846685	best: 0.6847026 (198)	total: 5.38s	remaining: 21.4s
+300:	test: 0.6872913	best: 0.6877301 (290)	total: 8.08s	remaining: 18.8s
+400:	test: 0.6881411	best: 0.6884689 (327)	total: 10.9s	remaining: 16.2s
+bestTest = 0.6884689033
+bestIteration = 327
+Shrink model to first 328 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5084738	best: 0.5084738 (0)	total: 29ms	remaining: 28.9s
+100:	test: 0.6804118	best: 0.6806776 (96)	total: 2.65s	remaining: 23.5s
+200:	test: 0.6832027	best: 0.6832707 (188)	total: 5.35s	remaining: 21.3s
+300:	test: 0.6846956	best: 0.6848425 (295)	total: 8.12s	remaining: 18.9s
+400:	test: 0.6853654	best: 0.6864482 (366)	total: 10.8s	remaining: 16.1s
+bestTest = 0.6864481866
+bestIteration = 366
+Shrink model to first 367 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 24.6ms	remaining: 24.6s
+100:	test: 0.6489863	best: 0.6506839 (86)	total: 2.62s	remaining: 23.3s
+200:	test: 0.6705132	best: 0.6705132 (200)	total: 5.29s	remaining: 21s
+300:	test: 0.6752197	best: 0.6752197 (300)	total: 8.02s	remaining: 18.6s
+400:	test: 0.6793580	best: 0.6793580 (400)	total: 10.7s	remaining: 15.9s
+500:	test: 0.6813720	best: 0.6813720 (500)	total: 13.4s	remaining: 13.3s
+600:	test: 0.6823657	best: 0.6823657 (600)	total: 16.1s	remaining: 10.7s
+700:	test: 0.6827168	best: 0.6828436 (662)	total: 18.9s	remaining: 8.07s
+800:	test: 0.6840611	best: 0.6840624 (798)	total: 21.6s	remaining: 5.38s
+900:	test: 0.6848690	best: 0.6849066 (890)	total: 24.4s	remaining: 2.68s
+999:	test: 0.6860668	best: 0.6860668 (999)	total: 27s	remaining: 0us
+bestTest = 0.6860668063
+bestIteration = 999
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 25.8ms	remaining: 25.7s
+100:	test: 0.6717128	best: 0.6726654 (98)	total: 2.67s	remaining: 23.8s
+200:	test: 0.6784606	best: 0.6786014 (199)	total: 5.44s	remaining: 21.6s
+300:	test: 0.6835012	best: 0.6835325 (293)	total: 8.23s	remaining: 19.1s
+400:	test: 0.6857449	best: 0.6857779 (394)	total: 11s	remaining: 16.4s
+500:	test: 0.6877157	best: 0.6877272 (498)	total: 13.6s	remaining: 13.6s
+600:	test: 0.6885137	best: 0.6887068 (549)	total: 16.3s	remaining: 10.8s
+700:	test: 0.6896615	best: 0.6896615 (700)	total: 19s	remaining: 8.11s
+800:	test: 0.6902185	best: 0.6902414 (797)	total: 21.7s	remaining: 5.39s
+900:	test: 0.6908711	best: 0.6908711 (900)	total: 24.4s	remaining: 2.67s
+999:	test: 0.6927109	best: 0.6927109 (999)	total: 27s	remaining: 0us
+bestTest = 0.6927109361
+bestIteration = 999
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 24.9ms	remaining: 24.9s
+100:	test: 0.6767732	best: 0.6767978 (96)	total: 2.68s	remaining: 23.9s
+200:	test: 0.6833049	best: 0.6833067 (199)	total: 5.42s	remaining: 21.5s
+300:	test: 0.6857888	best: 0.6859363 (292)	total: 8.24s	remaining: 19.1s
+400:	test: 0.6883507	best: 0.6883960 (390)	total: 11s	remaining: 16.4s
+500:	test: 0.6890793	best: 0.6892426 (481)	total: 13.9s	remaining: 13.8s
+600:	test: 0.6897294	best: 0.6901022 (561)	total: 16.6s	remaining: 11s
+700:	test: 0.6910213	best: 0.6910475 (699)	total: 19.4s	remaining: 8.26s
+800:	test: 0.6921738	best: 0.6921900 (797)	total: 22.1s	remaining: 5.49s
+900:	test: 0.6918130	best: 0.6924089 (842)	total: 24.8s	remaining: 2.73s
+bestTest = 0.6924088895
+bestIteration = 842
+Shrink model to first 843 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 25.6ms	remaining: 25.6s
+100:	test: 0.6813512	best: 0.6817074 (97)	total: 2.6s	remaining: 23.2s
+200:	test: 0.6861601	best: 0.6861882 (198)	total: 5.24s	remaining: 20.8s
+300:	test: 0.6884065	best: 0.6885410 (290)	total: 7.9s	remaining: 18.3s
+400:	test: 0.6895102	best: 0.6902282 (391)	total: 10.6s	remaining: 15.8s
+500:	test: 0.6895835	best: 0.6903005 (478)	total: 13.2s	remaining: 13.2s
+bestTest = 0.6903004646
+bestIteration = 478
+Shrink model to first 479 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 25.7ms	remaining: 25.7s
+100:	test: 0.6814512	best: 0.6815825 (96)	total: 2.7s	remaining: 24.1s
+200:	test: 0.6853347	best: 0.6853347 (200)	total: 5.36s	remaining: 21.3s
+300:	test: 0.6885385	best: 0.6886557 (294)	total: 8.02s	remaining: 18.6s
+bestTest = 0.6886557341
+bestIteration = 294
+Shrink model to first 295 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 24.7ms	remaining: 24.6s
+100:	test: 0.6481019	best: 0.6489938 (94)	total: 2.61s	remaining: 23.2s
+200:	test: 0.6710037	best: 0.6710037 (200)	total: 5.26s	remaining: 20.9s
+300:	test: 0.6763496	best: 0.6763496 (300)	total: 7.9s	remaining: 18.3s
+400:	test: 0.6803890	best: 0.6804180 (398)	total: 10.5s	remaining: 15.8s
+500:	test: 0.6817944	best: 0.6817982 (489)	total: 13.2s	remaining: 13.2s
+600:	test: 0.6832064	best: 0.6832064 (600)	total: 15.9s	remaining: 10.5s
+700:	test: 0.6833119	best: 0.6833966 (646)	total: 18.6s	remaining: 7.92s
+800:	test: 0.6844896	best: 0.6844896 (800)	total: 21.2s	remaining: 5.27s
+900:	test: 0.6851820	best: 0.6852814 (858)	total: 23.9s	remaining: 2.62s
+999:	test: 0.6860116	best: 0.6860116 (999)	total: 26.5s	remaining: 0us
+bestTest = 0.6860115826
+bestIteration = 999
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 24.8ms	remaining: 24.7s
+100:	test: 0.6728513	best: 0.6736284 (98)	total: 2.6s	remaining: 23.2s
+200:	test: 0.6804642	best: 0.6804642 (200)	total: 5.28s	remaining: 21s
+300:	test: 0.6851051	best: 0.6851614 (295)	total: 7.95s	remaining: 18.5s
+400:	test: 0.6873951	best: 0.6874511 (396)	total: 10.6s	remaining: 15.8s
+500:	test: 0.6876270	best: 0.6877156 (489)	total: 13.3s	remaining: 13.2s
+600:	test: 0.6891008	best: 0.6891491 (584)	total: 15.9s	remaining: 10.6s
+700:	test: 0.6895364	best: 0.6895364 (700)	total: 18.6s	remaining: 7.93s
+800:	test: 0.6902364	best: 0.6902364 (800)	total: 21.4s	remaining: 5.31s
+900:	test: 0.6912193	best: 0.6912193 (900)	total: 24.1s	remaining: 2.65s
+999:	test: 0.6925591	best: 0.6925591 (999)	total: 26.7s	remaining: 0us
+bestTest = 0.692559123
+bestIteration = 999
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 24.5ms	remaining: 24.5s
+100:	test: 0.6792883	best: 0.6792883 (100)	total: 2.63s	remaining: 23.4s
+200:	test: 0.6831379	best: 0.6832939 (198)	total: 5.36s	remaining: 21.3s
+300:	test: 0.6863756	best: 0.6865491 (292)	total: 8.09s	remaining: 18.8s
+400:	test: 0.6881212	best: 0.6882943 (392)	total: 10.8s	remaining: 16.1s
+500:	test: 0.6897756	best: 0.6897756 (500)	total: 13.4s	remaining: 13.4s
+600:	test: 0.6901220	best: 0.6906846 (538)	total: 16.1s	remaining: 10.7s
+700:	test: 0.6905718	best: 0.6908556 (643)	total: 18.8s	remaining: 8.04s
+800:	test: 0.6923021	best: 0.6923682 (797)	total: 21.6s	remaining: 5.36s
+900:	test: 0.6925364	best: 0.6927936 (825)	total: 24.3s	remaining: 2.67s
+bestTest = 0.6927936077
+bestIteration = 825
+Shrink model to first 826 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 27.6ms	remaining: 27.6s
+100:	test: 0.6818265	best: 0.6823867 (97)	total: 2.68s	remaining: 23.9s
+200:	test: 0.6851378	best: 0.6851600 (198)	total: 5.38s	remaining: 21.4s
+300:	test: 0.6873960	best: 0.6875776 (293)	total: 8.11s	remaining: 18.8s
+400:	test: 0.6891611	best: 0.6896002 (391)	total: 10.8s	remaining: 16.2s
+bestTest = 0.6896001697
+bestIteration = 391
+Shrink model to first 392 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 25.7ms	remaining: 25.7s
+100:	test: 0.6811063	best: 0.6813488 (96)	total: 2.68s	remaining: 23.8s
+200:	test: 0.6860135	best: 0.6860923 (198)	total: 5.39s	remaining: 21.4s
+300:	test: 0.6898552	best: 0.6898552 (300)	total: 8.11s	remaining: 18.8s
+bestTest = 0.6898554564
+bestIteration = 301
+Shrink model to first 302 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 25.6ms	remaining: 25.5s
+100:	test: 0.6485182	best: 0.6490508 (94)	total: 2.68s	remaining: 23.8s
+200:	test: 0.6718477	best: 0.6718477 (200)	total: 5.28s	remaining: 21s
+300:	test: 0.6763064	best: 0.6763064 (300)	total: 7.92s	remaining: 18.4s
+400:	test: 0.6805996	best: 0.6806325 (398)	total: 10.6s	remaining: 15.8s
+500:	test: 0.6826725	best: 0.6826725 (500)	total: 13.2s	remaining: 13.2s
+600:	test: 0.6839461	best: 0.6839461 (600)	total: 15.9s	remaining: 10.6s
+700:	test: 0.6842286	best: 0.6844165 (646)	total: 18.6s	remaining: 7.93s
+800:	test: 0.6852571	best: 0.6852727 (782)	total: 21.3s	remaining: 5.29s
+900:	test: 0.6858662	best: 0.6860564 (869)	total: 23.9s	remaining: 2.63s
+999:	test: 0.6866311	best: 0.6866311 (999)	total: 26.6s	remaining: 0us
+bestTest = 0.6866311431
+bestIteration = 999
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 25.1ms	remaining: 25.1s
+100:	test: 0.6745645	best: 0.6745645 (100)	total: 2.62s	remaining: 23.3s
+200:	test: 0.6797347	best: 0.6797347 (200)	total: 5.31s	remaining: 21.1s
+300:	test: 0.6851266	best: 0.6852221 (295)	total: 7.97s	remaining: 18.5s
+400:	test: 0.6873228	best: 0.6874385 (396)	total: 10.6s	remaining: 15.9s
+bestTest = 0.687438488
+bestIteration = 396
+Shrink model to first 397 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 24.9ms	remaining: 24.9s
+100:	test: 0.6808272	best: 0.6808272 (100)	total: 2.63s	remaining: 23.4s
+200:	test: 0.6837032	best: 0.6838406 (198)	total: 5.33s	remaining: 21.2s
+300:	test: 0.6872940	best: 0.6875029 (290)	total: 8.02s	remaining: 18.6s
+bestTest = 0.6875028908
+bestIteration = 290
+Shrink model to first 291 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 25.3ms	remaining: 25.3s
+100:	test: 0.6823298	best: 0.6826855 (97)	total: 2.67s	remaining: 23.8s
+200:	test: 0.6852681	best: 0.6853007 (198)	total: 5.34s	remaining: 21.2s
+300:	test: 0.6874004	best: 0.6876012 (292)	total: 8.03s	remaining: 18.6s
+400:	test: 0.6895162	best: 0.6898062 (391)	total: 10.8s	remaining: 16.1s
+500:	test: 0.6908142	best: 0.6908576 (496)	total: 13.4s	remaining: 13.4s
+600:	test: 0.6915405	best: 0.6919408 (590)	total: 16.2s	remaining: 10.7s
+bestTest = 0.6919408441
+bestIteration = 590
+Shrink model to first 591 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 25.5ms	remaining: 25.4s
+100:	test: 0.6801271	best: 0.6803787 (97)	total: 2.66s	remaining: 23.7s
+200:	test: 0.6854017	best: 0.6854751 (198)	total: 5.38s	remaining: 21.4s
+300:	test: 0.6876057	best: 0.6878292 (291)	total: 8.1s	remaining: 18.8s
+400:	test: 0.6894393	best: 0.6895601 (392)	total: 10.8s	remaining: 16.1s
+bestTest = 0.6895601153
+bestIteration = 392
+Shrink model to first 393 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5078242	best: 0.5078242 (0)	total: 24.8ms	remaining: 37.1s
+100:	test: 0.6492525	best: 0.6503350 (91)	total: 2.6s	remaining: 36.1s
+200:	test: 0.6711235	best: 0.6711843 (199)	total: 5.22s	remaining: 33.7s
+300:	test: 0.6762710	best: 0.6762710 (300)	total: 7.92s	remaining: 31.5s
+400:	test: 0.6773821	best: 0.6774374 (393)	total: 10.6s	remaining: 28.9s
+500:	test: 0.6793835	best: 0.6793838 (498)	total: 13.2s	remaining: 26.3s
+600:	test: 0.6805549	best: 0.6809652 (569)	total: 15.9s	remaining: 23.7s
+700:	test: 0.6816622	best: 0.6817514 (666)	total: 18.5s	remaining: 21.1s
+800:	test: 0.6836359	best: 0.6836359 (800)	total: 21.2s	remaining: 18.5s
+900:	test: 0.6835927	best: 0.6837595 (826)	total: 23.9s	remaining: 15.9s
+bestTest = 0.6837595403
+bestIteration = 826
+Shrink model to first 827 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5078242	best: 0.5078242 (0)	total: 25ms	remaining: 37.5s
+100:	test: 0.6702237	best: 0.6705583 (99)	total: 2.65s	remaining: 36.7s
+200:	test: 0.6759773	best: 0.6759773 (200)	total: 5.3s	remaining: 34.3s
+300:	test: 0.6802824	best: 0.6804431 (293)	total: 7.98s	remaining: 31.8s
+400:	test: 0.6829436	best: 0.6831523 (394)	total: 10.6s	remaining: 29.2s
+500:	test: 0.6834705	best: 0.6837535 (484)	total: 13.3s	remaining: 26.6s
+600:	test: 0.6840105	best: 0.6840313 (599)	total: 16s	remaining: 23.9s
+700:	test: 0.6850269	best: 0.6851992 (696)	total: 18.7s	remaining: 21.3s
+800:	test: 0.6871719	best: 0.6871719 (800)	total: 21.4s	remaining: 18.7s
+900:	test: 0.6875856	best: 0.6876388 (892)	total: 24.1s	remaining: 16s
+1000:	test: 0.6884564	best: 0.6885754 (995)	total: 26.8s	remaining: 13.3s
+1100:	test: 0.6885529	best: 0.6888905 (1052)	total: 29.5s	remaining: 10.7s
+bestTest = 0.6888905466
+bestIteration = 1052
+Shrink model to first 1053 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5078242	best: 0.5078242 (0)	total: 25.6ms	remaining: 38.4s
+100:	test: 0.6771752	best: 0.6771752 (100)	total: 2.7s	remaining: 37.4s
+200:	test: 0.6815974	best: 0.6815974 (200)	total: 5.39s	remaining: 34.9s
+300:	test: 0.6852677	best: 0.6853830 (293)	total: 8.1s	remaining: 32.3s
+400:	test: 0.6856081	best: 0.6857827 (371)	total: 10.8s	remaining: 29.7s
+500:	test: 0.6851609	best: 0.6860488 (473)	total: 13.6s	remaining: 27s
+600:	test: 0.6858051	best: 0.6861237 (542)	total: 16.3s	remaining: 24.4s
+700:	test: 0.6857928	best: 0.6865267 (643)	total: 19s	remaining: 21.7s
+bestTest = 0.6865267158
+bestIteration = 643
+Shrink model to first 644 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5078242	best: 0.5078242 (0)	total: 25.6ms	remaining: 38.4s
+100:	test: 0.6810890	best: 0.6813509 (98)	total: 2.69s	remaining: 37.3s
+200:	test: 0.6830139	best: 0.6831466 (197)	total: 5.43s	remaining: 35.1s
+300:	test: 0.6847503	best: 0.6852261 (292)	total: 8.12s	remaining: 32.3s
+400:	test: 0.6857251	best: 0.6860683 (392)	total: 10.8s	remaining: 29.7s
+500:	test: 0.6849682	best: 0.6864044 (447)	total: 13.5s	remaining: 26.9s
+bestTest = 0.686404407
+bestIteration = 447
+Shrink model to first 448 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5078242	best: 0.5078242 (0)	total: 25ms	remaining: 37.5s
+100:	test: 0.6798923	best: 0.6800299 (97)	total: 2.62s	remaining: 36.3s
+200:	test: 0.6849536	best: 0.6849536 (200)	total: 5.3s	remaining: 34.3s
+300:	test: 0.6861041	best: 0.6870862 (283)	total: 7.98s	remaining: 31.8s
+400:	test: 0.6866851	best: 0.6872924 (335)	total: 10.7s	remaining: 29.3s
+bestTest = 0.6872923672
+bestIteration = 335
+Shrink model to first 336 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5084738	best: 0.5084738 (0)	total: 26ms	remaining: 39s
+100:	test: 0.6506866	best: 0.6518820 (96)	total: 2.64s	remaining: 36.6s
+200:	test: 0.6695410	best: 0.6695437 (199)	total: 5.3s	remaining: 34.3s
+300:	test: 0.6749203	best: 0.6749203 (300)	total: 8.09s	remaining: 32.2s
+400:	test: 0.6786869	best: 0.6786869 (400)	total: 10.8s	remaining: 29.6s
+500:	test: 0.6798440	best: 0.6798726 (486)	total: 13.5s	remaining: 27s
+600:	test: 0.6811696	best: 0.6811710 (597)	total: 16.4s	remaining: 24.5s
+700:	test: 0.6817637	best: 0.6819476 (640)	total: 19.2s	remaining: 21.9s
+800:	test: 0.6834635	best: 0.6834709 (797)	total: 22s	remaining: 19.2s
+900:	test: 0.6839375	best: 0.6839384 (897)	total: 24.7s	remaining: 16.4s
+1000:	test: 0.6844546	best: 0.6844546 (1000)	total: 27.4s	remaining: 13.7s
+1100:	test: 0.6848706	best: 0.6848779 (1099)	total: 30.2s	remaining: 10.9s
+1200:	test: 0.6856665	best: 0.6856665 (1200)	total: 32.8s	remaining: 8.17s
+1300:	test: 0.6863834	best: 0.6864056 (1296)	total: 35.5s	remaining: 5.43s
+1400:	test: 0.6871885	best: 0.6872172 (1357)	total: 38.2s	remaining: 2.7s
+1499:	test: 0.6875616	best: 0.6875616 (1499)	total: 40.8s	remaining: 0us
+bestTest = 0.6875616014
+bestIteration = 1499
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5084738	best: 0.5084738 (0)	total: 25.4ms	remaining: 38.1s
+100:	test: 0.6708106	best: 0.6717027 (98)	total: 2.69s	remaining: 37.3s
+200:	test: 0.6795127	best: 0.6795602 (199)	total: 5.41s	remaining: 34.9s
+300:	test: 0.6829485	best: 0.6829485 (300)	total: 8.07s	remaining: 32.1s
+400:	test: 0.6851085	best: 0.6852261 (394)	total: 10.8s	remaining: 29.7s
+500:	test: 0.6858608	best: 0.6860691 (450)	total: 13.5s	remaining: 27s
+600:	test: 0.6863671	best: 0.6866320 (549)	total: 16.3s	remaining: 24.3s
+700:	test: 0.6873414	best: 0.6873613 (688)	total: 19s	remaining: 21.7s
+800:	test: 0.6879368	best: 0.6879559 (799)	total: 21.7s	remaining: 19s
+900:	test: 0.6889316	best: 0.6889316 (900)	total: 24.5s	remaining: 16.3s
+1000:	test: 0.6902284	best: 0.6902284 (1000)	total: 27.3s	remaining: 13.6s
+bestTest = 0.6902284324
+bestIteration = 1000
+Shrink model to first 1001 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5084738	best: 0.5084738 (0)	total: 25.3ms	remaining: 38s
+100:	test: 0.6768973	best: 0.6771680 (98)	total: 2.63s	remaining: 36.5s
+200:	test: 0.6797471	best: 0.6797471 (200)	total: 5.46s	remaining: 35.3s
+300:	test: 0.6835499	best: 0.6838612 (292)	total: 8.13s	remaining: 32.4s
+400:	test: 0.6850677	best: 0.6852179 (393)	total: 10.9s	remaining: 29.8s
+500:	test: 0.6863151	best: 0.6867624 (473)	total: 13.6s	remaining: 27.2s
+bestTest = 0.6867624223
+bestIteration = 473
+Shrink model to first 474 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5084738	best: 0.5084738 (0)	total: 28.1ms	remaining: 42.1s
+100:	test: 0.6812739	best: 0.6817296 (97)	total: 2.71s	remaining: 37.5s
+200:	test: 0.6846685	best: 0.6847026 (198)	total: 5.4s	remaining: 34.9s
+300:	test: 0.6872913	best: 0.6877301 (290)	total: 8.14s	remaining: 32.4s
+400:	test: 0.6881411	best: 0.6884689 (327)	total: 10.9s	remaining: 29.9s
+bestTest = 0.6884689033
+bestIteration = 327
+Shrink model to first 328 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5084738	best: 0.5084738 (0)	total: 25.2ms	remaining: 37.8s
+100:	test: 0.6804118	best: 0.6806776 (96)	total: 2.71s	remaining: 37.6s
+200:	test: 0.6832027	best: 0.6832707 (188)	total: 5.43s	remaining: 35.1s
+300:	test: 0.6846703	best: 0.6848169 (295)	total: 8.18s	remaining: 32.6s
+400:	test: 0.6853453	best: 0.6864261 (366)	total: 11s	remaining: 30.1s
+bestTest = 0.6864261031
+bestIteration = 366
+Shrink model to first 367 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 26.2ms	remaining: 39.2s
+100:	test: 0.6489863	best: 0.6506839 (86)	total: 2.64s	remaining: 36.6s
+200:	test: 0.6705132	best: 0.6705132 (200)	total: 5.3s	remaining: 34.2s
+300:	test: 0.6752197	best: 0.6752197 (300)	total: 8.02s	remaining: 32s
+400:	test: 0.6793580	best: 0.6793580 (400)	total: 10.7s	remaining: 29.4s
+500:	test: 0.6813680	best: 0.6813680 (500)	total: 13.5s	remaining: 27s
+600:	test: 0.6823628	best: 0.6823628 (600)	total: 16.2s	remaining: 24.3s
+700:	test: 0.6827186	best: 0.6828451 (662)	total: 18.9s	remaining: 21.5s
+800:	test: 0.6840655	best: 0.6840675 (798)	total: 21.5s	remaining: 18.8s
+900:	test: 0.6848731	best: 0.6849111 (890)	total: 24.2s	remaining: 16.1s
+1000:	test: 0.6860489	best: 0.6860666 (999)	total: 26.9s	remaining: 13.4s
+1100:	test: 0.6865084	best: 0.6865315 (1078)	total: 29.6s	remaining: 10.7s
+1200:	test: 0.6869094	best: 0.6869094 (1200)	total: 32.2s	remaining: 8.02s
+1300:	test: 0.6874925	best: 0.6874932 (1299)	total: 34.9s	remaining: 5.34s
+1400:	test: 0.6883858	best: 0.6884192 (1399)	total: 37.6s	remaining: 2.66s
+1499:	test: 0.6890487	best: 0.6890487 (1499)	total: 40.3s	remaining: 0us
+bestTest = 0.6890486777
+bestIteration = 1499
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 24.6ms	remaining: 36.9s
+100:	test: 0.6717128	best: 0.6726654 (98)	total: 2.68s	remaining: 37.1s
+200:	test: 0.6784606	best: 0.6786014 (199)	total: 5.3s	remaining: 34.3s
+300:	test: 0.6835073	best: 0.6835375 (293)	total: 7.97s	remaining: 31.8s
+400:	test: 0.6857492	best: 0.6857817 (394)	total: 10.6s	remaining: 29.2s
+500:	test: 0.6877193	best: 0.6877308 (498)	total: 13.3s	remaining: 26.6s
+600:	test: 0.6885170	best: 0.6887098 (549)	total: 16s	remaining: 23.9s
+700:	test: 0.6896665	best: 0.6896665 (700)	total: 18.7s	remaining: 21.3s
+800:	test: 0.6902215	best: 0.6902438 (797)	total: 21.3s	remaining: 18.6s
+900:	test: 0.6908739	best: 0.6908739 (900)	total: 24s	remaining: 16s
+1000:	test: 0.6927376	best: 0.6927376 (1000)	total: 26.7s	remaining: 13.3s
+bestTest = 0.6927605569
+bestIteration = 1001
+Shrink model to first 1002 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 24.6ms	remaining: 36.9s
+100:	test: 0.6767732	best: 0.6767978 (96)	total: 2.69s	remaining: 37.3s
+200:	test: 0.6833034	best: 0.6833051 (199)	total: 5.38s	remaining: 34.8s
+300:	test: 0.6857792	best: 0.6859270 (292)	total: 8.07s	remaining: 32.2s
+400:	test: 0.6883435	best: 0.6883899 (390)	total: 10.7s	remaining: 29.4s
+500:	test: 0.6890751	best: 0.6892367 (481)	total: 13.4s	remaining: 26.8s
+600:	test: 0.6897247	best: 0.6900971 (561)	total: 16.2s	remaining: 24.2s
+700:	test: 0.6910199	best: 0.6910462 (699)	total: 18.9s	remaining: 21.6s
+800:	test: 0.6921714	best: 0.6921896 (797)	total: 21.6s	remaining: 18.9s
+900:	test: 0.6918130	best: 0.6924108 (842)	total: 24.4s	remaining: 16.2s
+bestTest = 0.6924107671
+bestIteration = 842
+Shrink model to first 843 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 25.1ms	remaining: 37.6s
+100:	test: 0.6813512	best: 0.6817074 (97)	total: 2.63s	remaining: 36.4s
+200:	test: 0.6861601	best: 0.6861882 (198)	total: 5.34s	remaining: 34.5s
+300:	test: 0.6884089	best: 0.6885352 (290)	total: 8.05s	remaining: 32.1s
+400:	test: 0.6895119	best: 0.6902301 (391)	total: 10.8s	remaining: 29.6s
+500:	test: 0.6895866	best: 0.6903034 (478)	total: 13.5s	remaining: 27s
+bestTest = 0.6903033853
+bestIteration = 478
+Shrink model to first 479 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 25.6ms	remaining: 38.4s
+100:	test: 0.6814512	best: 0.6815825 (96)	total: 2.69s	remaining: 37.3s
+200:	test: 0.6853347	best: 0.6853347 (200)	total: 5.47s	remaining: 35.4s
+300:	test: 0.6885310	best: 0.6886481 (294)	total: 8.21s	remaining: 32.7s
+bestTest = 0.6886481047
+bestIteration = 294
+Shrink model to first 295 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 25.7ms	remaining: 38.6s
+100:	test: 0.6481019	best: 0.6489938 (94)	total: 2.63s	remaining: 36.4s
+200:	test: 0.6710037	best: 0.6710037 (200)	total: 5.25s	remaining: 34s
+300:	test: 0.6763496	best: 0.6763496 (300)	total: 7.94s	remaining: 31.6s
+400:	test: 0.6803890	best: 0.6804180 (398)	total: 10.6s	remaining: 29.2s
+500:	test: 0.6817966	best: 0.6817982 (489)	total: 13.4s	remaining: 26.7s
+600:	test: 0.6832083	best: 0.6832083 (600)	total: 16.2s	remaining: 24.2s
+700:	test: 0.6833163	best: 0.6834004 (646)	total: 18.9s	remaining: 21.6s
+800:	test: 0.6844969	best: 0.6844969 (800)	total: 21.7s	remaining: 18.9s
+900:	test: 0.6851880	best: 0.6852863 (858)	total: 24.4s	remaining: 16.2s
+1000:	test: 0.6860777	best: 0.6860777 (1000)	total: 27.2s	remaining: 13.5s
+1100:	test: 0.6865225	best: 0.6866250 (1079)	total: 29.9s	remaining: 10.8s
+1200:	test: 0.6871594	best: 0.6871594 (1200)	total: 32.6s	remaining: 8.13s
+1300:	test: 0.6877859	best: 0.6877864 (1299)	total: 35.4s	remaining: 5.41s
+1400:	test: 0.6885874	best: 0.6886642 (1387)	total: 38.1s	remaining: 2.69s
+1499:	test: 0.6889663	best: 0.6889892 (1495)	total: 40.8s	remaining: 0us
+bestTest = 0.6889891624
+bestIteration = 1495
+Shrink model to first 1496 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 26.2ms	remaining: 39.3s
+100:	test: 0.6728513	best: 0.6736284 (98)	total: 2.7s	remaining: 37.4s
+200:	test: 0.6804642	best: 0.6804642 (200)	total: 5.43s	remaining: 35.1s
+300:	test: 0.6851065	best: 0.6851576 (295)	total: 8.19s	remaining: 32.6s
+400:	test: 0.6873962	best: 0.6874518 (396)	total: 10.9s	remaining: 30s
+500:	test: 0.6876277	best: 0.6877162 (489)	total: 13.7s	remaining: 27.2s
+600:	test: 0.6890963	best: 0.6891455 (584)	total: 16.4s	remaining: 24.5s
+700:	test: 0.6895357	best: 0.6895357 (700)	total: 19.1s	remaining: 21.8s
+800:	test: 0.6902353	best: 0.6902353 (800)	total: 21.8s	remaining: 19.1s
+900:	test: 0.6912187	best: 0.6912187 (900)	total: 24.6s	remaining: 16.3s
+1000:	test: 0.6925767	best: 0.6925767 (1000)	total: 27.3s	remaining: 13.6s
+bestTest = 0.6926125884
+bestIteration = 1005
+Shrink model to first 1006 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 25.7ms	remaining: 38.5s
+100:	test: 0.6792883	best: 0.6792883 (100)	total: 2.68s	remaining: 37.1s
+200:	test: 0.6831379	best: 0.6832939 (198)	total: 5.36s	remaining: 34.6s
+300:	test: 0.6863875	best: 0.6865607 (292)	total: 8.06s	remaining: 32.1s
+400:	test: 0.6881306	best: 0.6883039 (392)	total: 10.8s	remaining: 29.7s
+500:	test: 0.6897832	best: 0.6897832 (500)	total: 13.5s	remaining: 27s
+600:	test: 0.6901298	best: 0.6906911 (538)	total: 16.3s	remaining: 24.3s
+700:	test: 0.6905789	best: 0.6908622 (643)	total: 19s	remaining: 21.6s
+800:	test: 0.6923099	best: 0.6923754 (797)	total: 21.7s	remaining: 18.9s
+900:	test: 0.6925438	best: 0.6928024 (825)	total: 24.4s	remaining: 16.2s
+bestTest = 0.6928023696
+bestIteration = 825
+Shrink model to first 826 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 26.4ms	remaining: 39.6s
+100:	test: 0.6818265	best: 0.6823867 (97)	total: 2.72s	remaining: 37.6s
+200:	test: 0.6851378	best: 0.6851600 (198)	total: 5.49s	remaining: 35.5s
+300:	test: 0.6873980	best: 0.6875722 (293)	total: 8.24s	remaining: 32.8s
+400:	test: 0.6891629	best: 0.6896008 (391)	total: 11s	remaining: 30.1s
+bestTest = 0.6896007657
+bestIteration = 391
+Shrink model to first 392 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 27.4ms	remaining: 41s
+100:	test: 0.6811063	best: 0.6813488 (96)	total: 2.94s	remaining: 40.7s
+200:	test: 0.6860135	best: 0.6860923 (198)	total: 5.95s	remaining: 38.4s
+300:	test: 0.6898552	best: 0.6898552 (300)	total: 8.92s	remaining: 35.5s
+bestTest = 0.6898554564
+bestIteration = 301
+Shrink model to first 302 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 25.6ms	remaining: 38.4s
+100:	test: 0.6485182	best: 0.6490508 (94)	total: 2.73s	remaining: 37.9s
+200:	test: 0.6718477	best: 0.6718477 (200)	total: 5.42s	remaining: 35s
+300:	test: 0.6763064	best: 0.6763064 (300)	total: 8.09s	remaining: 32.2s
+400:	test: 0.6805996	best: 0.6806325 (398)	total: 10.8s	remaining: 29.5s
+500:	test: 0.6826725	best: 0.6826725 (500)	total: 13.4s	remaining: 26.8s
+600:	test: 0.6839461	best: 0.6839461 (600)	total: 16.1s	remaining: 24.1s
+700:	test: 0.6842293	best: 0.6844198 (646)	total: 18.8s	remaining: 21.4s
+800:	test: 0.6852584	best: 0.6852734 (782)	total: 21.5s	remaining: 18.8s
+900:	test: 0.6858670	best: 0.6860571 (869)	total: 24.2s	remaining: 16.1s
+1000:	test: 0.6867132	best: 0.6867132 (1000)	total: 26.8s	remaining: 13.4s
+1100:	test: 0.6868908	best: 0.6869629 (1079)	total: 29.4s	remaining: 10.7s
+1200:	test: 0.6874880	best: 0.6874880 (1200)	total: 32.1s	remaining: 7.99s
+1300:	test: 0.6879843	best: 0.6880013 (1295)	total: 34.8s	remaining: 5.33s
+1400:	test: 0.6887470	best: 0.6888518 (1387)	total: 37.6s	remaining: 2.65s
+1499:	test: 0.6892087	best: 0.6892087 (1499)	total: 40.3s	remaining: 0us
+bestTest = 0.6892086864
+bestIteration = 1499
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 25.5ms	remaining: 38.2s
+100:	test: 0.6745645	best: 0.6745645 (100)	total: 2.69s	remaining: 37.2s
+200:	test: 0.6797347	best: 0.6797347 (200)	total: 5.38s	remaining: 34.8s
+300:	test: 0.6851325	best: 0.6852269 (295)	total: 8.17s	remaining: 32.5s
+400:	test: 0.6873294	best: 0.6874421 (396)	total: 10.9s	remaining: 29.8s
+bestTest = 0.6874420643
+bestIteration = 396
+Shrink model to first 397 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 26ms	remaining: 38.9s
+100:	test: 0.6808272	best: 0.6808272 (100)	total: 2.68s	remaining: 37.1s
+200:	test: 0.6836976	best: 0.6838352 (198)	total: 5.39s	remaining: 34.8s
+300:	test: 0.6872801	best: 0.6874888 (290)	total: 8.17s	remaining: 32.6s
+bestTest = 0.6874887943
+bestIteration = 290
+Shrink model to first 291 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 25.2ms	remaining: 37.8s
+100:	test: 0.6823298	best: 0.6826855 (97)	total: 2.7s	remaining: 37.4s
+200:	test: 0.6852681	best: 0.6853007 (198)	total: 5.43s	remaining: 35.1s
+300:	test: 0.6873969	best: 0.6875961 (292)	total: 8.17s	remaining: 32.5s
+400:	test: 0.6895125	best: 0.6898025 (391)	total: 11s	remaining: 30s
+500:	test: 0.6908112	best: 0.6908549 (496)	total: 13.7s	remaining: 27.3s
+600:	test: 0.6915307	best: 0.6919313 (590)	total: 16.5s	remaining: 24.7s
+bestTest = 0.6919313073
+bestIteration = 590
+Shrink model to first 591 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 25.7ms	remaining: 38.5s
+100:	test: 0.6801271	best: 0.6803787 (97)	total: 2.69s	remaining: 37.3s
+200:	test: 0.6854017	best: 0.6854751 (198)	total: 5.35s	remaining: 34.6s
+300:	test: 0.6876065	best: 0.6878211 (291)	total: 8.12s	remaining: 32.4s
+400:	test: 0.6894410	best: 0.6895613 (392)	total: 10.9s	remaining: 29.8s
+bestTest = 0.6895613074
+bestIteration = 392
+Shrink model to first 393 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5078242	best: 0.5078242 (0)	total: 26.1ms	remaining: 52.3s
+100:	test: 0.6492525	best: 0.6503350 (91)	total: 2.63s	remaining: 49.5s
+200:	test: 0.6711235	best: 0.6711843 (199)	total: 5.28s	remaining: 47.2s
+300:	test: 0.6762710	best: 0.6762710 (300)	total: 8.03s	remaining: 45.3s
+400:	test: 0.6773821	best: 0.6774374 (393)	total: 10.7s	remaining: 42.7s
+500:	test: 0.6793835	best: 0.6793838 (498)	total: 13.4s	remaining: 40.1s
+600:	test: 0.6805549	best: 0.6809652 (569)	total: 16.1s	remaining: 37.4s
+700:	test: 0.6816797	best: 0.6817704 (666)	total: 18.8s	remaining: 34.8s
+800:	test: 0.6836514	best: 0.6836514 (800)	total: 21.5s	remaining: 32.1s
+900:	test: 0.6836128	best: 0.6837735 (826)	total: 24.2s	remaining: 29.5s
+bestTest = 0.6837735474
+bestIteration = 826
+Shrink model to first 827 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5078242	best: 0.5078242 (0)	total: 26.8ms	remaining: 53.6s
+100:	test: 0.6702236	best: 0.6705580 (99)	total: 2.69s	remaining: 50.5s
+200:	test: 0.6759771	best: 0.6759771 (200)	total: 5.37s	remaining: 48s
+300:	test: 0.6803103	best: 0.6804741 (293)	total: 8.07s	remaining: 45.5s
+400:	test: 0.6829723	best: 0.6831816 (394)	total: 10.7s	remaining: 42.8s
+500:	test: 0.6834959	best: 0.6837793 (484)	total: 13.4s	remaining: 40.2s
+600:	test: 0.6840327	best: 0.6840535 (599)	total: 16.1s	remaining: 37.6s
+700:	test: 0.6850433	best: 0.6852162 (696)	total: 18.8s	remaining: 34.9s
+800:	test: 0.6871864	best: 0.6871864 (800)	total: 21.5s	remaining: 32.2s
+900:	test: 0.6875994	best: 0.6876525 (892)	total: 24.2s	remaining: 29.6s
+1000:	test: 0.6884673	best: 0.6885862 (995)	total: 26.9s	remaining: 26.9s
+1100:	test: 0.6885644	best: 0.6889033 (1052)	total: 29.7s	remaining: 24.2s
+bestTest = 0.688903302
+bestIteration = 1052
+Shrink model to first 1053 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5078242	best: 0.5078242 (0)	total: 26.5ms	remaining: 53.1s
+100:	test: 0.6771752	best: 0.6771752 (100)	total: 2.69s	remaining: 50.6s
+200:	test: 0.6815974	best: 0.6815974 (200)	total: 5.39s	remaining: 48.2s
+300:	test: 0.6852677	best: 0.6853830 (293)	total: 8.02s	remaining: 45.3s
+400:	test: 0.6856081	best: 0.6857827 (371)	total: 10.8s	remaining: 42.9s
+500:	test: 0.6851609	best: 0.6860488 (473)	total: 13.4s	remaining: 40.1s
+600:	test: 0.6858051	best: 0.6861237 (542)	total: 16.1s	remaining: 37.4s
+700:	test: 0.6857924	best: 0.6865273 (643)	total: 18.7s	remaining: 34.7s
+bestTest = 0.6865273118
+bestIteration = 643
+Shrink model to first 644 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5078242	best: 0.5078242 (0)	total: 26ms	remaining: 51.9s
+100:	test: 0.6810890	best: 0.6813509 (98)	total: 2.62s	remaining: 49.4s
+200:	test: 0.6829453	best: 0.6830774 (197)	total: 5.31s	remaining: 47.5s
+300:	test: 0.6847214	best: 0.6851889 (292)	total: 7.96s	remaining: 44.9s
+400:	test: 0.6856982	best: 0.6860408 (392)	total: 10.6s	remaining: 42.4s
+500:	test: 0.6849424	best: 0.6863798 (447)	total: 13.3s	remaining: 39.7s
+bestTest = 0.6863797903
+bestIteration = 447
+Shrink model to first 448 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5078242	best: 0.5078242 (0)	total: 25.1ms	remaining: 50.1s
+100:	test: 0.6798923	best: 0.6800299 (97)	total: 2.63s	remaining: 49.5s
+200:	test: 0.6849536	best: 0.6849536 (200)	total: 5.3s	remaining: 47.5s
+300:	test: 0.6861083	best: 0.6870912 (283)	total: 7.95s	remaining: 44.9s
+400:	test: 0.6866882	best: 0.6872965 (335)	total: 10.6s	remaining: 42.3s
+bestTest = 0.6872964799
+bestIteration = 335
+Shrink model to first 336 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5084738	best: 0.5084738 (0)	total: 25ms	remaining: 50s
+100:	test: 0.6506866	best: 0.6518820 (96)	total: 2.58s	remaining: 48.4s
+200:	test: 0.6695410	best: 0.6695437 (199)	total: 5.2s	remaining: 46.6s
+300:	test: 0.6749203	best: 0.6749203 (300)	total: 7.97s	remaining: 45s
+400:	test: 0.6786869	best: 0.6786869 (400)	total: 10.7s	remaining: 42.6s
+500:	test: 0.6798504	best: 0.6798726 (486)	total: 13.3s	remaining: 39.9s
+600:	test: 0.6811767	best: 0.6811779 (597)	total: 16s	remaining: 37.2s
+700:	test: 0.6817686	best: 0.6819537 (640)	total: 18.6s	remaining: 34.5s
+800:	test: 0.6834669	best: 0.6834759 (797)	total: 21.2s	remaining: 31.8s
+900:	test: 0.6839402	best: 0.6839418 (897)	total: 23.9s	remaining: 29.2s
+1000:	test: 0.6844576	best: 0.6844576 (1000)	total: 26.7s	remaining: 26.6s
+1100:	test: 0.6848729	best: 0.6848801 (1099)	total: 29.4s	remaining: 24s
+1200:	test: 0.6856688	best: 0.6856688 (1200)	total: 32.1s	remaining: 21.4s
+1300:	test: 0.6863855	best: 0.6864076 (1296)	total: 34.8s	remaining: 18.7s
+1400:	test: 0.6871907	best: 0.6872199 (1357)	total: 37.5s	remaining: 16s
+1500:	test: 0.6875760	best: 0.6875760 (1500)	total: 40.2s	remaining: 13.4s
+1600:	test: 0.6880193	best: 0.6881054 (1566)	total: 42.9s	remaining: 10.7s
+1700:	test: 0.6887474	best: 0.6887968 (1696)	total: 45.5s	remaining: 8s
+1800:	test: 0.6889329	best: 0.6889473 (1799)	total: 48.3s	remaining: 5.33s
+1900:	test: 0.6892589	best: 0.6893202 (1885)	total: 51s	remaining: 2.66s
+1999:	test: 0.6895607	best: 0.6895607 (1999)	total: 53.7s	remaining: 0us
+bestTest = 0.6895606518
+bestIteration = 1999
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5084738	best: 0.5084738 (0)	total: 25.4ms	remaining: 50.7s
+100:	test: 0.6708106	best: 0.6717027 (98)	total: 2.67s	remaining: 50.2s
+200:	test: 0.6795127	best: 0.6795602 (199)	total: 5.33s	remaining: 47.7s
+300:	test: 0.6829628	best: 0.6829628 (300)	total: 8.01s	remaining: 45.2s
+400:	test: 0.6851203	best: 0.6852383 (394)	total: 10.7s	remaining: 42.8s
+500:	test: 0.6858691	best: 0.6860790 (450)	total: 13.5s	remaining: 40.3s
+600:	test: 0.6863738	best: 0.6866391 (549)	total: 16.3s	remaining: 37.9s
+700:	test: 0.6873461	best: 0.6873669 (688)	total: 19s	remaining: 35.2s
+800:	test: 0.6879370	best: 0.6879549 (799)	total: 21.7s	remaining: 32.5s
+900:	test: 0.6889316	best: 0.6889316 (900)	total: 24.6s	remaining: 30s
+1000:	test: 0.6902278	best: 0.6902278 (1000)	total: 27.5s	remaining: 27.4s
+bestTest = 0.6902278364
+bestIteration = 1000
+Shrink model to first 1001 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5084738	best: 0.5084738 (0)	total: 26ms	remaining: 51.9s
+100:	test: 0.6768973	best: 0.6771680 (98)	total: 2.77s	remaining: 52s
+200:	test: 0.6797471	best: 0.6797471 (200)	total: 5.47s	remaining: 49s
+300:	test: 0.6835599	best: 0.6838706 (292)	total: 8.2s	remaining: 46.3s
+400:	test: 0.6850753	best: 0.6852249 (393)	total: 10.9s	remaining: 43.6s
+500:	test: 0.6863294	best: 0.6867766 (473)	total: 13.7s	remaining: 41.1s
+bestTest = 0.6867765784
+bestIteration = 473
+Shrink model to first 474 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5084738	best: 0.5084738 (0)	total: 25.7ms	remaining: 51.3s
+100:	test: 0.6812739	best: 0.6817296 (97)	total: 2.76s	remaining: 51.9s
+200:	test: 0.6846685	best: 0.6847026 (198)	total: 5.64s	remaining: 50.5s
+300:	test: 0.6872913	best: 0.6877301 (290)	total: 8.4s	remaining: 47.4s
+400:	test: 0.6881411	best: 0.6884689 (327)	total: 11.2s	remaining: 44.8s
+bestTest = 0.6884689033
+bestIteration = 327
+Shrink model to first 328 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5084738	best: 0.5084738 (0)	total: 26.8ms	remaining: 53.5s
+100:	test: 0.6804118	best: 0.6806776 (96)	total: 2.79s	remaining: 52.4s
+200:	test: 0.6832004	best: 0.6832675 (188)	total: 5.81s	remaining: 52s
+300:	test: 0.6846660	best: 0.6848136 (295)	total: 8.69s	remaining: 49s
+400:	test: 0.6853421	best: 0.6864234 (366)	total: 11.4s	remaining: 45.5s
+bestTest = 0.6864234209
+bestIteration = 366
+Shrink model to first 367 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 24.5ms	remaining: 49s
+100:	test: 0.6489863	best: 0.6506839 (86)	total: 2.6s	remaining: 48.9s
+200:	test: 0.6705132	best: 0.6705132 (200)	total: 5.32s	remaining: 47.6s
+300:	test: 0.6752197	best: 0.6752197 (300)	total: 8.03s	remaining: 45.3s
+400:	test: 0.6793580	best: 0.6793580 (400)	total: 10.8s	remaining: 43s
+500:	test: 0.6813680	best: 0.6813680 (500)	total: 13.5s	remaining: 40.5s
+600:	test: 0.6823628	best: 0.6823628 (600)	total: 16.2s	remaining: 37.7s
+700:	test: 0.6827092	best: 0.6828379 (662)	total: 18.9s	remaining: 35s
+800:	test: 0.6840518	best: 0.6840528 (798)	total: 21.6s	remaining: 32.3s
+900:	test: 0.6848636	best: 0.6849017 (890)	total: 24.2s	remaining: 29.5s
+1000:	test: 0.6860406	best: 0.6860587 (999)	total: 26.8s	remaining: 26.8s
+1100:	test: 0.6865019	best: 0.6865246 (1078)	total: 29.5s	remaining: 24.1s
+1200:	test: 0.6869046	best: 0.6869046 (1200)	total: 32.1s	remaining: 21.4s
+1300:	test: 0.6874858	best: 0.6874866 (1299)	total: 34.8s	remaining: 18.7s
+1400:	test: 0.6883791	best: 0.6884136 (1399)	total: 37.4s	remaining: 16s
+1500:	test: 0.6890481	best: 0.6890481 (1500)	total: 40.1s	remaining: 13.3s
+1600:	test: 0.6894577	best: 0.6895376 (1563)	total: 42.7s	remaining: 10.7s
+1700:	test: 0.6898379	best: 0.6898578 (1696)	total: 45.4s	remaining: 7.99s
+1800:	test: 0.6901922	best: 0.6901929 (1798)	total: 48.2s	remaining: 5.33s
+1900:	test: 0.6907737	best: 0.6907737 (1900)	total: 50.9s	remaining: 2.65s
+1999:	test: 0.6911938	best: 0.6911938 (1999)	total: 53.7s	remaining: 0us
+bestTest = 0.6911937892
+bestIteration = 1999
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 25.6ms	remaining: 51.2s
+100:	test: 0.6717128	best: 0.6726654 (98)	total: 2.68s	remaining: 50.4s
+200:	test: 0.6784606	best: 0.6786014 (199)	total: 5.38s	remaining: 48.2s
+300:	test: 0.6835096	best: 0.6835325 (293)	total: 8.1s	remaining: 45.7s
+400:	test: 0.6857511	best: 0.6857841 (394)	total: 10.9s	remaining: 43.3s
+500:	test: 0.6877219	best: 0.6877326 (498)	total: 13.6s	remaining: 40.7s
+600:	test: 0.6885182	best: 0.6887116 (549)	total: 16.3s	remaining: 37.9s
+700:	test: 0.6896679	best: 0.6896679 (700)	total: 18.9s	remaining: 35.1s
+800:	test: 0.6902244	best: 0.6902469 (797)	total: 21.6s	remaining: 32.3s
+900:	test: 0.6908745	best: 0.6908745 (900)	total: 24.2s	remaining: 29.5s
+1000:	test: 0.6927381	best: 0.6927381 (1000)	total: 26.9s	remaining: 26.9s
+bestTest = 0.692761451
+bestIteration = 1001
+Shrink model to first 1002 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 25.7ms	remaining: 51.3s
+100:	test: 0.6767732	best: 0.6767978 (96)	total: 2.69s	remaining: 50.5s
+200:	test: 0.6833034	best: 0.6833051 (199)	total: 5.38s	remaining: 48.1s
+300:	test: 0.6857785	best: 0.6859260 (292)	total: 8.1s	remaining: 45.7s
+400:	test: 0.6883433	best: 0.6883897 (390)	total: 10.9s	remaining: 43.3s
+500:	test: 0.6890810	best: 0.6892426 (481)	total: 13.6s	remaining: 40.5s
+600:	test: 0.6897239	best: 0.6900967 (561)	total: 16.2s	remaining: 37.7s
+700:	test: 0.6910163	best: 0.6910425 (699)	total: 19s	remaining: 35.1s
+800:	test: 0.6921675	best: 0.6921861 (797)	total: 21.8s	remaining: 32.6s
+900:	test: 0.6918089	best: 0.6924074 (842)	total: 24.5s	remaining: 29.9s
+bestTest = 0.6924074292
+bestIteration = 842
+Shrink model to first 843 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 25.4ms	remaining: 50.8s
+100:	test: 0.6813512	best: 0.6817074 (97)	total: 2.68s	remaining: 50.4s
+200:	test: 0.6861601	best: 0.6861882 (198)	total: 5.39s	remaining: 48.2s
+300:	test: 0.6884146	best: 0.6885410 (290)	total: 8.05s	remaining: 45.5s
+400:	test: 0.6895164	best: 0.6902348 (391)	total: 10.7s	remaining: 42.8s
+500:	test: 0.6895884	best: 0.6903056 (478)	total: 13.5s	remaining: 40.3s
+bestTest = 0.6903055906
+bestIteration = 478
+Shrink model to first 479 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 25.7ms	remaining: 51.4s
+100:	test: 0.6814512	best: 0.6815825 (96)	total: 2.63s	remaining: 49.5s
+200:	test: 0.6853347	best: 0.6853347 (200)	total: 5.29s	remaining: 47.3s
+300:	test: 0.6885412	best: 0.6886481 (294)	total: 7.99s	remaining: 45.1s
+bestTest = 0.6886481047
+bestIteration = 294
+Shrink model to first 295 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 26.2ms	remaining: 52.3s
+100:	test: 0.6481019	best: 0.6489938 (94)	total: 2.69s	remaining: 50.6s
+200:	test: 0.6710037	best: 0.6710037 (200)	total: 5.35s	remaining: 47.9s
+300:	test: 0.6763496	best: 0.6763496 (300)	total: 8.07s	remaining: 45.5s
+400:	test: 0.6803890	best: 0.6804180 (398)	total: 10.8s	remaining: 43s
+500:	test: 0.6817944	best: 0.6817982 (489)	total: 13.5s	remaining: 40.4s
+600:	test: 0.6832064	best: 0.6832064 (600)	total: 16.3s	remaining: 37.8s
+700:	test: 0.6833119	best: 0.6833966 (646)	total: 19s	remaining: 35.2s
+800:	test: 0.6844928	best: 0.6844928 (800)	total: 21.7s	remaining: 32.4s
+900:	test: 0.6851854	best: 0.6852833 (858)	total: 24.3s	remaining: 29.6s
+1000:	test: 0.6860752	best: 0.6860752 (1000)	total: 27s	remaining: 26.9s
+1100:	test: 0.6865208	best: 0.6866225 (1079)	total: 29.7s	remaining: 24.2s
+1200:	test: 0.6871569	best: 0.6871569 (1200)	total: 32.4s	remaining: 21.5s
+1300:	test: 0.6877836	best: 0.6877840 (1299)	total: 35.1s	remaining: 18.8s
+1400:	test: 0.6885834	best: 0.6886622 (1387)	total: 37.7s	remaining: 16.1s
+1500:	test: 0.6889706	best: 0.6889854 (1495)	total: 40.4s	remaining: 13.4s
+1600:	test: 0.6894121	best: 0.6895265 (1559)	total: 43.1s	remaining: 10.7s
+1700:	test: 0.6898743	best: 0.6898743 (1700)	total: 45.8s	remaining: 8.05s
+1800:	test: 0.6901274	best: 0.6901396 (1798)	total: 48.5s	remaining: 5.36s
+1900:	test: 0.6904988	best: 0.6905112 (1898)	total: 51.1s	remaining: 2.66s
+1999:	test: 0.6909236	best: 0.6909236 (1999)	total: 53.8s	remaining: 0us
+bestTest = 0.6909235716
+bestIteration = 1999
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 25.1ms	remaining: 50.2s
+100:	test: 0.6728513	best: 0.6736284 (98)	total: 2.6s	remaining: 48.8s
+200:	test: 0.6804642	best: 0.6804642 (200)	total: 5.24s	remaining: 46.9s
+300:	test: 0.6851104	best: 0.6851614 (295)	total: 7.94s	remaining: 44.8s
+400:	test: 0.6873998	best: 0.6874555 (396)	total: 10.6s	remaining: 42.2s
+500:	test: 0.6876299	best: 0.6877196 (489)	total: 13.2s	remaining: 39.6s
+600:	test: 0.6890990	best: 0.6891475 (584)	total: 15.9s	remaining: 37.1s
+700:	test: 0.6895364	best: 0.6895364 (700)	total: 18.6s	remaining: 34.5s
+800:	test: 0.6902346	best: 0.6902346 (800)	total: 21.3s	remaining: 31.9s
+900:	test: 0.6912178	best: 0.6912178 (900)	total: 24s	remaining: 29.3s
+1000:	test: 0.6925745	best: 0.6925745 (1000)	total: 26.7s	remaining: 26.6s
+bestTest = 0.6926104426
+bestIteration = 1006
+Shrink model to first 1007 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 24.6ms	remaining: 49.1s
+100:	test: 0.6792883	best: 0.6792883 (100)	total: 2.62s	remaining: 49.3s
+200:	test: 0.6831379	best: 0.6832939 (198)	total: 5.26s	remaining: 47.1s
+300:	test: 0.6863756	best: 0.6865491 (292)	total: 7.97s	remaining: 45s
+400:	test: 0.6881212	best: 0.6882943 (392)	total: 10.6s	remaining: 42.4s
+500:	test: 0.6897756	best: 0.6897756 (500)	total: 13.3s	remaining: 39.9s
+600:	test: 0.6901131	best: 0.6906806 (538)	total: 16s	remaining: 37.3s
+700:	test: 0.6905577	best: 0.6908448 (643)	total: 18.7s	remaining: 34.7s
+800:	test: 0.6922880	best: 0.6923519 (797)	total: 21.4s	remaining: 32s
+900:	test: 0.6925240	best: 0.6927794 (825)	total: 24s	remaining: 29.3s
+bestTest = 0.692779392
+bestIteration = 825
+Shrink model to first 826 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 25.6ms	remaining: 51.2s
+100:	test: 0.6818265	best: 0.6823867 (97)	total: 2.62s	remaining: 49.4s
+200:	test: 0.6851378	best: 0.6851600 (198)	total: 5.27s	remaining: 47.1s
+300:	test: 0.6873954	best: 0.6875776 (293)	total: 7.93s	remaining: 44.8s
+400:	test: 0.6891604	best: 0.6895993 (391)	total: 10.6s	remaining: 42.3s
+bestTest = 0.6895992756
+bestIteration = 391
+Shrink model to first 392 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 24.5ms	remaining: 49s
+100:	test: 0.6811063	best: 0.6813488 (96)	total: 2.64s	remaining: 49.7s
+200:	test: 0.6860135	best: 0.6860923 (198)	total: 5.3s	remaining: 47.4s
+300:	test: 0.6898552	best: 0.6898552 (300)	total: 8.02s	remaining: 45.3s
+bestTest = 0.6898554564
+bestIteration = 301
+Shrink model to first 302 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 26.4ms	remaining: 52.7s
+100:	test: 0.6485182	best: 0.6490508 (94)	total: 2.69s	remaining: 50.6s
+200:	test: 0.6718477	best: 0.6718477 (200)	total: 5.34s	remaining: 47.8s
+300:	test: 0.6763064	best: 0.6763064 (300)	total: 8.03s	remaining: 45.3s
+400:	test: 0.6805996	best: 0.6806325 (398)	total: 10.7s	remaining: 42.8s
+500:	test: 0.6826725	best: 0.6826725 (500)	total: 13.5s	remaining: 40.3s
+600:	test: 0.6839461	best: 0.6839461 (600)	total: 16.2s	remaining: 37.6s
+700:	test: 0.6842286	best: 0.6844165 (646)	total: 18.8s	remaining: 34.9s
+800:	test: 0.6852571	best: 0.6852727 (782)	total: 21.5s	remaining: 32.2s
+900:	test: 0.6858662	best: 0.6860564 (869)	total: 24.3s	remaining: 29.6s
+1000:	test: 0.6867102	best: 0.6867102 (1000)	total: 27s	remaining: 26.9s
+1100:	test: 0.6868881	best: 0.6869598 (1079)	total: 29.7s	remaining: 24.2s
+1200:	test: 0.6874871	best: 0.6874871 (1200)	total: 32.4s	remaining: 21.6s
+1300:	test: 0.6879826	best: 0.6880000 (1295)	total: 35.1s	remaining: 18.9s
+1400:	test: 0.6887454	best: 0.6888507 (1387)	total: 37.9s	remaining: 16.2s
+1500:	test: 0.6892269	best: 0.6892269 (1500)	total: 40.6s	remaining: 13.5s
+1600:	test: 0.6899102	best: 0.6899548 (1565)	total: 43.3s	remaining: 10.8s
+1700:	test: 0.6904090	best: 0.6904192 (1684)	total: 46s	remaining: 8.09s
+1800:	test: 0.6905957	best: 0.6906641 (1721)	total: 48.7s	remaining: 5.38s
+bestTest = 0.690664053
+bestIteration = 1721
+Shrink model to first 1722 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 24.7ms	remaining: 49.3s
+100:	test: 0.6745645	best: 0.6745645 (100)	total: 2.6s	remaining: 48.9s
+200:	test: 0.6797347	best: 0.6797347 (200)	total: 5.24s	remaining: 46.9s
+300:	test: 0.6851265	best: 0.6852269 (295)	total: 7.97s	remaining: 45s
+400:	test: 0.6873227	best: 0.6874382 (396)	total: 10.7s	remaining: 42.6s
+bestTest = 0.68743819
+bestIteration = 396
+Shrink model to first 397 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 25.4ms	remaining: 50.7s
+100:	test: 0.6808272	best: 0.6808272 (100)	total: 2.68s	remaining: 50.4s
+200:	test: 0.6837032	best: 0.6838406 (198)	total: 5.38s	remaining: 48.2s
+300:	test: 0.6872891	best: 0.6874984 (290)	total: 8.09s	remaining: 45.7s
+bestTest = 0.6874984205
+bestIteration = 290
+Shrink model to first 291 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 26.9ms	remaining: 53.8s
+100:	test: 0.6823298	best: 0.6826855 (97)	total: 2.73s	remaining: 51.4s
+200:	test: 0.6852681	best: 0.6853007 (198)	total: 5.46s	remaining: 48.9s
+300:	test: 0.6874004	best: 0.6876012 (292)	total: 8.2s	remaining: 46.3s
+400:	test: 0.6895162	best: 0.6898062 (391)	total: 10.9s	remaining: 43.6s
+500:	test: 0.6908153	best: 0.6908587 (496)	total: 13.6s	remaining: 40.7s
+600:	test: 0.6915433	best: 0.6919426 (590)	total: 16.3s	remaining: 38s
+bestTest = 0.6919426322
+bestIteration = 590
+Shrink model to first 591 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 24.6ms	remaining: 49.2s
+100:	test: 0.6801271	best: 0.6803787 (97)	total: 2.64s	remaining: 49.7s
+200:	test: 0.6854017	best: 0.6854751 (198)	total: 5.3s	remaining: 47.5s
+300:	test: 0.6876057	best: 0.6878292 (291)	total: 7.99s	remaining: 45.1s
+400:	test: 0.6894393	best: 0.6895601 (392)	total: 10.7s	remaining: 42.6s
+bestTest = 0.6895601153
+bestIteration = 392
+Shrink model to first 393 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5078242	best: 0.5078242 (0)	total: 24.6ms	remaining: 1m 1s
+100:	test: 0.6492525	best: 0.6503350 (91)	total: 2.57s	remaining: 1m 1s
+200:	test: 0.6711235	best: 0.6711843 (199)	total: 5.15s	remaining: 58.9s
+300:	test: 0.6762710	best: 0.6762710 (300)	total: 7.78s	remaining: 56.8s
+400:	test: 0.6773821	best: 0.6774374 (393)	total: 10.4s	remaining: 54.4s
+500:	test: 0.6793835	best: 0.6793838 (498)	total: 13s	remaining: 51.9s
+600:	test: 0.6805359	best: 0.6809461 (569)	total: 15.7s	remaining: 49.6s
+700:	test: 0.6816489	best: 0.6817385 (666)	total: 18.3s	remaining: 47.1s
+800:	test: 0.6836247	best: 0.6836247 (800)	total: 21s	remaining: 44.6s
+900:	test: 0.6835835	best: 0.6837486 (826)	total: 23.6s	remaining: 42s
+bestTest = 0.6837486327
+bestIteration = 826
+Shrink model to first 827 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5078242	best: 0.5078242 (0)	total: 24.9ms	remaining: 1m 2s
+100:	test: 0.6702237	best: 0.6705583 (99)	total: 2.63s	remaining: 1m 2s
+200:	test: 0.6759773	best: 0.6759773 (200)	total: 5.31s	remaining: 1m
+300:	test: 0.6802824	best: 0.6804431 (293)	total: 7.96s	remaining: 58.2s
+400:	test: 0.6829436	best: 0.6831523 (394)	total: 10.6s	remaining: 55.4s
+500:	test: 0.6834705	best: 0.6837535 (484)	total: 13.2s	remaining: 52.7s
+600:	test: 0.6840105	best: 0.6840313 (599)	total: 15.9s	remaining: 50.3s
+700:	test: 0.6850269	best: 0.6851992 (696)	total: 18.7s	remaining: 48.1s
+800:	test: 0.6871719	best: 0.6871719 (800)	total: 21.5s	remaining: 45.6s
+900:	test: 0.6875856	best: 0.6876388 (892)	total: 24.3s	remaining: 43.1s
+1000:	test: 0.6884564	best: 0.6885754 (995)	total: 27.1s	remaining: 40.5s
+1100:	test: 0.6885529	best: 0.6888905 (1052)	total: 29.9s	remaining: 38s
+bestTest = 0.6888905466
+bestIteration = 1052
+Shrink model to first 1053 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5078242	best: 0.5078242 (0)	total: 26.3ms	remaining: 1m 5s
+100:	test: 0.6771752	best: 0.6771752 (100)	total: 2.82s	remaining: 1m 6s
+200:	test: 0.6815974	best: 0.6815974 (200)	total: 5.62s	remaining: 1m 4s
+300:	test: 0.6852677	best: 0.6853830 (293)	total: 8.44s	remaining: 1m 1s
+400:	test: 0.6856081	best: 0.6857827 (371)	total: 11.2s	remaining: 58.9s
+500:	test: 0.6851609	best: 0.6860488 (473)	total: 14.1s	remaining: 56.1s
+600:	test: 0.6858051	best: 0.6861237 (542)	total: 16.9s	remaining: 53.3s
+700:	test: 0.6857924	best: 0.6865273 (643)	total: 19.7s	remaining: 50.5s
+bestTest = 0.6865273118
+bestIteration = 643
+Shrink model to first 644 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5078242	best: 0.5078242 (0)	total: 27ms	remaining: 1m 7s
+100:	test: 0.6810890	best: 0.6813509 (98)	total: 2.79s	remaining: 1m 6s
+200:	test: 0.6830139	best: 0.6831466 (197)	total: 5.6s	remaining: 1m 4s
+300:	test: 0.6847503	best: 0.6852261 (292)	total: 8.43s	remaining: 1m 1s
+400:	test: 0.6857251	best: 0.6860683 (392)	total: 11.3s	remaining: 59.1s
+500:	test: 0.6849628	best: 0.6864044 (447)	total: 14.1s	remaining: 56.1s
+bestTest = 0.686404407
+bestIteration = 447
+Shrink model to first 448 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5078242	best: 0.5078242 (0)	total: 26.5ms	remaining: 1m 6s
+100:	test: 0.6798923	best: 0.6800299 (97)	total: 2.77s	remaining: 1m 5s
+200:	test: 0.6849536	best: 0.6849536 (200)	total: 5.53s	remaining: 1m 3s
+300:	test: 0.6861083	best: 0.6870912 (283)	total: 8.32s	remaining: 1m
+400:	test: 0.6866882	best: 0.6872965 (335)	total: 11.2s	remaining: 58.4s
+bestTest = 0.6872964799
+bestIteration = 335
+Shrink model to first 336 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5084738	best: 0.5084738 (0)	total: 26.6ms	remaining: 1m 6s
+100:	test: 0.6506866	best: 0.6518820 (96)	total: 2.73s	remaining: 1m 4s
+200:	test: 0.6695410	best: 0.6695437 (199)	total: 5.45s	remaining: 1m 2s
+300:	test: 0.6749203	best: 0.6749203 (300)	total: 8.25s	remaining: 1m
+400:	test: 0.6786869	best: 0.6786869 (400)	total: 11s	remaining: 57.8s
+500:	test: 0.6798504	best: 0.6798726 (486)	total: 13.9s	remaining: 55.3s
+600:	test: 0.6811767	best: 0.6811779 (597)	total: 16.6s	remaining: 52.6s
+700:	test: 0.6817658	best: 0.6819537 (640)	total: 19.4s	remaining: 49.8s
+800:	test: 0.6834650	best: 0.6834735 (797)	total: 22.2s	remaining: 47.1s
+900:	test: 0.6839390	best: 0.6839402 (897)	total: 25s	remaining: 44.3s
+1000:	test: 0.6844562	best: 0.6844562 (1000)	total: 27.8s	remaining: 41.6s
+1100:	test: 0.6848720	best: 0.6848792 (1099)	total: 30.5s	remaining: 38.8s
+1200:	test: 0.6856683	best: 0.6856683 (1200)	total: 33.3s	remaining: 36s
+1300:	test: 0.6863847	best: 0.6864068 (1296)	total: 36.1s	remaining: 33.3s
+1400:	test: 0.6871901	best: 0.6872190 (1357)	total: 38.9s	remaining: 30.5s
+1500:	test: 0.6875758	best: 0.6875758 (1500)	total: 41.7s	remaining: 27.8s
+1600:	test: 0.6880184	best: 0.6881050 (1566)	total: 44.6s	remaining: 25s
+1700:	test: 0.6887493	best: 0.6887985 (1696)	total: 47.3s	remaining: 22.2s
+1800:	test: 0.6889347	best: 0.6889494 (1799)	total: 50.1s	remaining: 19.5s
+1900:	test: 0.6892613	best: 0.6893233 (1885)	total: 53s	remaining: 16.7s
+2000:	test: 0.6896059	best: 0.6896059 (2000)	total: 55.8s	remaining: 13.9s
+2100:	test: 0.6897720	best: 0.6897720 (2100)	total: 58.6s	remaining: 11.1s
+2200:	test: 0.6902843	best: 0.6902843 (2200)	total: 1m 1s	remaining: 8.35s
+2300:	test: 0.6903816	best: 0.6904472 (2274)	total: 1m 4s	remaining: 5.55s
+2400:	test: 0.6903575	best: 0.6904768 (2369)	total: 1m 7s	remaining: 2.76s
+bestTest = 0.6904767752
+bestIteration = 2369
+Shrink model to first 2370 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5084738	best: 0.5084738 (0)	total: 27.3ms	remaining: 1m 8s
+100:	test: 0.6708106	best: 0.6717027 (98)	total: 2.82s	remaining: 1m 6s
+200:	test: 0.6795127	best: 0.6795602 (199)	total: 5.6s	remaining: 1m 4s
+300:	test: 0.6829756	best: 0.6829756 (300)	total: 8.42s	remaining: 1m 1s
+400:	test: 0.6851324	best: 0.6852509 (394)	total: 11.2s	remaining: 58.7s
+500:	test: 0.6858758	best: 0.6860889 (450)	total: 14s	remaining: 55.8s
+600:	test: 0.6863802	best: 0.6866458 (549)	total: 16.8s	remaining: 53.1s
+700:	test: 0.6873521	best: 0.6873723 (688)	total: 19.6s	remaining: 50.4s
+800:	test: 0.6879456	best: 0.6879647 (799)	total: 22.4s	remaining: 47.6s
+900:	test: 0.6889388	best: 0.6889388 (900)	total: 25.3s	remaining: 44.9s
+1000:	test: 0.6902354	best: 0.6902354 (1000)	total: 28.2s	remaining: 42.2s
+bestTest = 0.6902354062
+bestIteration = 1000
+Shrink model to first 1001 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5084738	best: 0.5084738 (0)	total: 26.3ms	remaining: 1m 5s
+100:	test: 0.6768973	best: 0.6771680 (98)	total: 2.85s	remaining: 1m 7s
+200:	test: 0.6797471	best: 0.6797471 (200)	total: 5.66s	remaining: 1m 4s
+300:	test: 0.6835499	best: 0.6838612 (292)	total: 8.48s	remaining: 1m 1s
+400:	test: 0.6850677	best: 0.6852179 (393)	total: 11.3s	remaining: 59.1s
+500:	test: 0.6863151	best: 0.6867624 (473)	total: 14.1s	remaining: 56.3s
+bestTest = 0.6867624223
+bestIteration = 473
+Shrink model to first 474 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5084738	best: 0.5084738 (0)	total: 26.1ms	remaining: 1m 5s
+100:	test: 0.6812739	best: 0.6817296 (97)	total: 2.79s	remaining: 1m 6s
+200:	test: 0.6846681	best: 0.6847021 (198)	total: 5.58s	remaining: 1m 3s
+300:	test: 0.6872903	best: 0.6877305 (290)	total: 8.36s	remaining: 1m 1s
+400:	test: 0.6881405	best: 0.6884686 (327)	total: 11.2s	remaining: 58.4s
+bestTest = 0.6884685755
+bestIteration = 327
+Shrink model to first 328 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5084738	best: 0.5084738 (0)	total: 26.5ms	remaining: 1m 6s
+100:	test: 0.6804118	best: 0.6806776 (96)	total: 2.84s	remaining: 1m 7s
+200:	test: 0.6832027	best: 0.6832707 (188)	total: 5.64s	remaining: 1m 4s
+300:	test: 0.6846703	best: 0.6848169 (295)	total: 8.46s	remaining: 1m 1s
+400:	test: 0.6853453	best: 0.6864261 (366)	total: 11.3s	remaining: 59.1s
+bestTest = 0.6864261031
+bestIteration = 366
+Shrink model to first 367 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 25.7ms	remaining: 1m 4s
+100:	test: 0.6489863	best: 0.6506839 (86)	total: 2.72s	remaining: 1m 4s
+200:	test: 0.6705132	best: 0.6705132 (200)	total: 5.47s	remaining: 1m 2s
+300:	test: 0.6752197	best: 0.6752197 (300)	total: 8.26s	remaining: 1m
+400:	test: 0.6793580	best: 0.6793580 (400)	total: 11s	remaining: 57.8s
+500:	test: 0.6813720	best: 0.6813720 (500)	total: 13.9s	remaining: 55.4s
+600:	test: 0.6823663	best: 0.6823663 (600)	total: 16.7s	remaining: 52.7s
+700:	test: 0.6827191	best: 0.6828458 (662)	total: 19.5s	remaining: 50s
+800:	test: 0.6840665	best: 0.6840674 (798)	total: 22.3s	remaining: 47.3s
+900:	test: 0.6848739	best: 0.6849111 (890)	total: 25.1s	remaining: 44.5s
+1000:	test: 0.6860493	best: 0.6860667 (999)	total: 27.9s	remaining: 41.8s
+1100:	test: 0.6865095	best: 0.6865320 (1078)	total: 30.7s	remaining: 39s
+1200:	test: 0.6869097	best: 0.6869097 (1200)	total: 33.5s	remaining: 36.2s
+1300:	test: 0.6874900	best: 0.6874909 (1299)	total: 36.3s	remaining: 33.5s
+1400:	test: 0.6883833	best: 0.6884173 (1399)	total: 39.1s	remaining: 30.7s
+1500:	test: 0.6890513	best: 0.6890513 (1500)	total: 41.9s	remaining: 27.9s
+1600:	test: 0.6894609	best: 0.6895414 (1563)	total: 44.8s	remaining: 25.1s
+1700:	test: 0.6898412	best: 0.6898607 (1696)	total: 47.6s	remaining: 22.3s
+1800:	test: 0.6901943	best: 0.6901951 (1798)	total: 50.4s	remaining: 19.6s
+1900:	test: 0.6907765	best: 0.6907765 (1900)	total: 53.3s	remaining: 16.8s
+2000:	test: 0.6912475	best: 0.6912475 (2000)	total: 56.2s	remaining: 14s
+2100:	test: 0.6914462	best: 0.6914462 (2100)	total: 59s	remaining: 11.2s
+2200:	test: 0.6917740	best: 0.6917801 (2195)	total: 1m 1s	remaining: 8.41s
+2300:	test: 0.6919415	best: 0.6920420 (2277)	total: 1m 4s	remaining: 5.6s
+2400:	test: 0.6919228	best: 0.6921455 (2325)	total: 1m 7s	remaining: 2.79s
+bestTest = 0.6921454966
+bestIteration = 2325
+Shrink model to first 2326 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 27.1ms	remaining: 1m 7s
+100:	test: 0.6717128	best: 0.6726654 (98)	total: 2.77s	remaining: 1m 5s
+200:	test: 0.6784606	best: 0.6786014 (199)	total: 5.55s	remaining: 1m 3s
+300:	test: 0.6834999	best: 0.6835307 (293)	total: 8.36s	remaining: 1m 1s
+400:	test: 0.6857437	best: 0.6857760 (394)	total: 11.2s	remaining: 58.5s
+500:	test: 0.6877143	best: 0.6877263 (498)	total: 14s	remaining: 55.9s
+600:	test: 0.6885132	best: 0.6887060 (549)	total: 16.8s	remaining: 53.1s
+700:	test: 0.6896630	best: 0.6896630 (700)	total: 19.6s	remaining: 50.3s
+800:	test: 0.6902201	best: 0.6902431 (797)	total: 22.4s	remaining: 47.6s
+900:	test: 0.6908722	best: 0.6908722 (900)	total: 25.2s	remaining: 44.8s
+1000:	test: 0.6927349	best: 0.6927349 (1000)	total: 28.1s	remaining: 42s
+bestTest = 0.6927582622
+bestIteration = 1001
+Shrink model to first 1002 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 26.4ms	remaining: 1m 5s
+100:	test: 0.6767732	best: 0.6767978 (96)	total: 2.75s	remaining: 1m 5s
+200:	test: 0.6833034	best: 0.6833051 (199)	total: 5.54s	remaining: 1m 3s
+300:	test: 0.6857785	best: 0.6859260 (292)	total: 8.4s	remaining: 1m 1s
+400:	test: 0.6883433	best: 0.6883897 (390)	total: 11.2s	remaining: 58.6s
+500:	test: 0.6890747	best: 0.6892364 (481)	total: 14s	remaining: 55.9s
+600:	test: 0.6897244	best: 0.6900969 (561)	total: 16.8s	remaining: 53.1s
+700:	test: 0.6910204	best: 0.6910466 (699)	total: 19.6s	remaining: 50.3s
+800:	test: 0.6921718	best: 0.6921896 (797)	total: 22.4s	remaining: 47.5s
+900:	test: 0.6918134	best: 0.6924109 (842)	total: 25.2s	remaining: 44.8s
+bestTest = 0.6924109459
+bestIteration = 842
+Shrink model to first 843 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 26.1ms	remaining: 1m 5s
+100:	test: 0.6813512	best: 0.6817074 (97)	total: 2.76s	remaining: 1m 5s
+200:	test: 0.6861751	best: 0.6862049 (198)	total: 5.54s	remaining: 1m 3s
+300:	test: 0.6884145	best: 0.6885409 (290)	total: 8.33s	remaining: 1m
+400:	test: 0.6895160	best: 0.6902346 (391)	total: 11.2s	remaining: 58.6s
+500:	test: 0.6895884	best: 0.6903056 (478)	total: 14s	remaining: 55.9s
+bestTest = 0.6903055906
+bestIteration = 478
+Shrink model to first 479 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 27.2ms	remaining: 1m 8s
+100:	test: 0.6814512	best: 0.6815825 (96)	total: 2.77s	remaining: 1m 5s
+200:	test: 0.6853347	best: 0.6853347 (200)	total: 5.57s	remaining: 1m 3s
+300:	test: 0.6885412	best: 0.6886481 (294)	total: 8.39s	remaining: 1m 1s
+bestTest = 0.6886481047
+bestIteration = 294
+Shrink model to first 295 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 26.3ms	remaining: 1m 5s
+100:	test: 0.6481019	best: 0.6489938 (94)	total: 2.71s	remaining: 1m 4s
+200:	test: 0.6710037	best: 0.6710037 (200)	total: 5.46s	remaining: 1m 2s
+300:	test: 0.6763496	best: 0.6763496 (300)	total: 8.27s	remaining: 1m
+400:	test: 0.6803890	best: 0.6804180 (398)	total: 11.1s	remaining: 57.9s
+500:	test: 0.6817966	best: 0.6817982 (489)	total: 13.9s	remaining: 55.5s
+600:	test: 0.6832083	best: 0.6832083 (600)	total: 16.7s	remaining: 52.8s
+700:	test: 0.6833123	best: 0.6833975 (646)	total: 19.5s	remaining: 50s
+800:	test: 0.6844928	best: 0.6844928 (800)	total: 22.3s	remaining: 47.3s
+900:	test: 0.6851875	best: 0.6852833 (858)	total: 25.1s	remaining: 44.5s
+1000:	test: 0.6860772	best: 0.6860772 (1000)	total: 27.9s	remaining: 41.8s
+1100:	test: 0.6865217	best: 0.6866241 (1079)	total: 30.7s	remaining: 39s
+1200:	test: 0.6871585	best: 0.6871585 (1200)	total: 33.5s	remaining: 36.3s
+1300:	test: 0.6877857	best: 0.6877862 (1299)	total: 36.4s	remaining: 33.5s
+1400:	test: 0.6885856	best: 0.6886642 (1387)	total: 39.2s	remaining: 30.7s
+1500:	test: 0.6889723	best: 0.6889872 (1495)	total: 42s	remaining: 28s
+1600:	test: 0.6894151	best: 0.6895297 (1559)	total: 44.9s	remaining: 25.2s
+1700:	test: 0.6898783	best: 0.6898783 (1700)	total: 47.6s	remaining: 22.4s
+1800:	test: 0.6901315	best: 0.6901437 (1798)	total: 50.5s	remaining: 19.6s
+1900:	test: 0.6905019	best: 0.6905159 (1898)	total: 53.3s	remaining: 16.8s
+2000:	test: 0.6909596	best: 0.6909596 (2000)	total: 56.1s	remaining: 14s
+2100:	test: 0.6913144	best: 0.6913329 (2086)	total: 59s	remaining: 11.2s
+2200:	test: 0.6917565	best: 0.6917929 (2185)	total: 1m 1s	remaining: 8.39s
+2300:	test: 0.6919619	best: 0.6920899 (2277)	total: 1m 4s	remaining: 5.59s
+2400:	test: 0.6918961	best: 0.6921391 (2343)	total: 1m 7s	remaining: 2.78s
+bestTest = 0.6921390593
+bestIteration = 2343
+Shrink model to first 2344 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 26.9ms	remaining: 1m 7s
+100:	test: 0.6728513	best: 0.6736284 (98)	total: 2.74s	remaining: 1m 5s
+200:	test: 0.6804642	best: 0.6804642 (200)	total: 5.56s	remaining: 1m 3s
+300:	test: 0.6851065	best: 0.6851576 (295)	total: 8.35s	remaining: 1m
+400:	test: 0.6873962	best: 0.6874518 (396)	total: 11.1s	remaining: 58.2s
+500:	test: 0.6876277	best: 0.6877162 (489)	total: 13.9s	remaining: 55.5s
+600:	test: 0.6890963	best: 0.6891455 (584)	total: 16.7s	remaining: 52.8s
+700:	test: 0.6895337	best: 0.6895337 (700)	total: 19.5s	remaining: 50.1s
+800:	test: 0.6902341	best: 0.6902341 (800)	total: 22.3s	remaining: 47.4s
+900:	test: 0.6912175	best: 0.6912175 (900)	total: 25.1s	remaining: 44.6s
+1000:	test: 0.6925740	best: 0.6925740 (1000)	total: 27.9s	remaining: 41.8s
+bestTest = 0.6926100552
+bestIteration = 1006
+Shrink model to first 1007 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 26.3ms	remaining: 1m 5s
+100:	test: 0.6792883	best: 0.6792883 (100)	total: 2.8s	remaining: 1m 6s
+200:	test: 0.6831379	best: 0.6832939 (198)	total: 5.57s	remaining: 1m 3s
+300:	test: 0.6863816	best: 0.6865607 (292)	total: 8.37s	remaining: 1m 1s
+400:	test: 0.6881261	best: 0.6882989 (392)	total: 11.2s	remaining: 58.6s
+500:	test: 0.6897787	best: 0.6897787 (500)	total: 14s	remaining: 55.9s
+600:	test: 0.6901161	best: 0.6906828 (538)	total: 16.8s	remaining: 53.2s
+700:	test: 0.6905628	best: 0.6908489 (643)	total: 19.7s	remaining: 50.5s
+800:	test: 0.6922929	best: 0.6923583 (797)	total: 22.5s	remaining: 47.6s
+900:	test: 0.6925258	best: 0.6927839 (825)	total: 25.3s	remaining: 44.9s
+bestTest = 0.6927838624
+bestIteration = 825
+Shrink model to first 826 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 27.3ms	remaining: 1m 8s
+100:	test: 0.6818265	best: 0.6823867 (97)	total: 2.75s	remaining: 1m 5s
+200:	test: 0.6851378	best: 0.6851600 (198)	total: 5.57s	remaining: 1m 3s
+300:	test: 0.6873980	best: 0.6875722 (293)	total: 8.37s	remaining: 1m 1s
+400:	test: 0.6891629	best: 0.6896008 (391)	total: 11.2s	remaining: 58.6s
+bestTest = 0.6896007657
+bestIteration = 391
+Shrink model to first 392 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 26.5ms	remaining: 1m 6s
+100:	test: 0.6811063	best: 0.6813488 (96)	total: 2.77s	remaining: 1m 5s
+200:	test: 0.6860135	best: 0.6860923 (198)	total: 5.6s	remaining: 1m 4s
+300:	test: 0.6898641	best: 0.6898641 (300)	total: 8.44s	remaining: 1m 1s
+bestTest = 0.689864397
+bestIteration = 301
+Shrink model to first 302 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 26.2ms	remaining: 1m 5s
+100:	test: 0.6485182	best: 0.6490508 (94)	total: 2.72s	remaining: 1m 4s
+200:	test: 0.6718477	best: 0.6718477 (200)	total: 5.46s	remaining: 1m 2s
+300:	test: 0.6763064	best: 0.6763064 (300)	total: 8.23s	remaining: 1m
+400:	test: 0.6805996	best: 0.6806325 (398)	total: 11.1s	remaining: 58s
+500:	test: 0.6826725	best: 0.6826725 (500)	total: 13.9s	remaining: 55.4s
+600:	test: 0.6839461	best: 0.6839461 (600)	total: 16.7s	remaining: 52.7s
+700:	test: 0.6842302	best: 0.6844186 (646)	total: 19.5s	remaining: 50s
+800:	test: 0.6852590	best: 0.6852743 (782)	total: 22.3s	remaining: 47.2s
+900:	test: 0.6858681	best: 0.6860578 (869)	total: 25.1s	remaining: 44.5s
+1000:	test: 0.6867099	best: 0.6867099 (1000)	total: 27.9s	remaining: 41.7s
+1100:	test: 0.6868877	best: 0.6869595 (1079)	total: 30.7s	remaining: 39s
+1200:	test: 0.6874856	best: 0.6874856 (1200)	total: 33.5s	remaining: 36.2s
+1300:	test: 0.6879813	best: 0.6879989 (1295)	total: 36.3s	remaining: 33.5s
+1400:	test: 0.6887446	best: 0.6888500 (1387)	total: 39.1s	remaining: 30.7s
+1500:	test: 0.6892264	best: 0.6892264 (1500)	total: 41.9s	remaining: 27.9s
+1600:	test: 0.6899043	best: 0.6899492 (1565)	total: 44.8s	remaining: 25.1s
+1700:	test: 0.6904026	best: 0.6904125 (1684)	total: 47.6s	remaining: 22.3s
+1800:	test: 0.6905920	best: 0.6906603 (1721)	total: 50.4s	remaining: 19.6s
+bestTest = 0.6906602681
+bestIteration = 1721
+Shrink model to first 1722 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 26.7ms	remaining: 1m 6s
+100:	test: 0.6745645	best: 0.6745645 (100)	total: 2.78s	remaining: 1m 6s
+200:	test: 0.6797347	best: 0.6797347 (200)	total: 5.54s	remaining: 1m 3s
+300:	test: 0.6851266	best: 0.6852221 (295)	total: 8.35s	remaining: 1m 1s
+400:	test: 0.6873258	best: 0.6874385 (396)	total: 11.2s	remaining: 58.4s
+bestTest = 0.687438488
+bestIteration = 396
+Shrink model to first 397 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 26.6ms	remaining: 1m 6s
+100:	test: 0.6808272	best: 0.6808272 (100)	total: 2.8s	remaining: 1m 6s
+200:	test: 0.6837032	best: 0.6838406 (198)	total: 5.61s	remaining: 1m 4s
+300:	test: 0.6872844	best: 0.6874929 (290)	total: 8.38s	remaining: 1m 1s
+bestTest = 0.687492907
+bestIteration = 290
+Shrink model to first 291 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 24.7ms	remaining: 1m 1s
+100:	test: 0.6823298	best: 0.6826855 (97)	total: 2.64s	remaining: 1m 2s
+200:	test: 0.6852681	best: 0.6853007 (198)	total: 5.3s	remaining: 1m
+300:	test: 0.6873954	best: 0.6876012 (292)	total: 8.01s	remaining: 58.5s
+400:	test: 0.6895117	best: 0.6898011 (391)	total: 10.7s	remaining: 56s
+500:	test: 0.6908117	best: 0.6908554 (496)	total: 13.4s	remaining: 53.4s
+600:	test: 0.6915439	best: 0.6919438 (590)	total: 16.1s	remaining: 50.8s
+bestTest = 0.6919437647
+bestIteration = 590
+Shrink model to first 591 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 25ms	remaining: 1m 2s
+100:	test: 0.6801271	best: 0.6803787 (97)	total: 2.67s	remaining: 1m 3s
+200:	test: 0.6854017	best: 0.6854751 (198)	total: 5.33s	remaining: 1m 1s
+300:	test: 0.6875886	best: 0.6878211 (291)	total: 8.02s	remaining: 58.6s
+400:	test: 0.6894246	best: 0.6895443 (392)	total: 10.7s	remaining: 56s
+bestTest = 0.6895443201
+bestIteration = 392
+Shrink model to first 393 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5078242	best: 0.5078242 (0)	total: 25.1ms	remaining: 1m 15s
+100:	test: 0.6492525	best: 0.6503350 (91)	total: 2.6s	remaining: 1m 14s
+200:	test: 0.6711235	best: 0.6711843 (199)	total: 5.27s	remaining: 1m 13s
+300:	test: 0.6762710	best: 0.6762710 (300)	total: 7.92s	remaining: 1m 10s
+400:	test: 0.6773821	best: 0.6774374 (393)	total: 10.6s	remaining: 1m 8s
+500:	test: 0.6793835	best: 0.6793838 (498)	total: 13.2s	remaining: 1m 5s
+600:	test: 0.6805549	best: 0.6809652 (569)	total: 15.8s	remaining: 1m 3s
+700:	test: 0.6816673	best: 0.6817568 (666)	total: 18.5s	remaining: 1m
+800:	test: 0.6836410	best: 0.6836410 (800)	total: 21.2s	remaining: 58.1s
+900:	test: 0.6835960	best: 0.6837634 (826)	total: 23.8s	remaining: 55.4s
+bestTest = 0.6837634146
+bestIteration = 826
+Shrink model to first 827 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5078242	best: 0.5078242 (0)	total: 24.8ms	remaining: 1m 14s
+100:	test: 0.6702237	best: 0.6705583 (99)	total: 2.61s	remaining: 1m 15s
+200:	test: 0.6759773	best: 0.6759773 (200)	total: 5.26s	remaining: 1m 13s
+300:	test: 0.6802824	best: 0.6804431 (293)	total: 7.9s	remaining: 1m 10s
+400:	test: 0.6829436	best: 0.6831523 (394)	total: 10.6s	remaining: 1m 8s
+500:	test: 0.6834705	best: 0.6837535 (484)	total: 13.2s	remaining: 1m 5s
+600:	test: 0.6840105	best: 0.6840313 (599)	total: 15.8s	remaining: 1m 3s
+700:	test: 0.6850269	best: 0.6851992 (696)	total: 18.7s	remaining: 1m 1s
+800:	test: 0.6871719	best: 0.6871719 (800)	total: 21.4s	remaining: 58.7s
+900:	test: 0.6875856	best: 0.6876388 (892)	total: 24.1s	remaining: 56.1s
+1000:	test: 0.6884564	best: 0.6885754 (995)	total: 26.7s	remaining: 53.4s
+1100:	test: 0.6885529	best: 0.6888905 (1052)	total: 29.4s	remaining: 50.7s
+bestTest = 0.6888905466
+bestIteration = 1052
+Shrink model to first 1053 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5078242	best: 0.5078242 (0)	total: 24.9ms	remaining: 1m 14s
+100:	test: 0.6771752	best: 0.6771752 (100)	total: 2.63s	remaining: 1m 15s
+200:	test: 0.6815974	best: 0.6815974 (200)	total: 5.28s	remaining: 1m 13s
+300:	test: 0.6852677	best: 0.6853830 (293)	total: 7.97s	remaining: 1m 11s
+400:	test: 0.6856081	best: 0.6857827 (371)	total: 10.6s	remaining: 1m 8s
+500:	test: 0.6851609	best: 0.6860488 (473)	total: 13.3s	remaining: 1m 6s
+600:	test: 0.6858051	best: 0.6861237 (542)	total: 16s	remaining: 1m 3s
+700:	test: 0.6857924	best: 0.6865273 (643)	total: 18.6s	remaining: 1m 1s
+bestTest = 0.6865273118
+bestIteration = 643
+Shrink model to first 644 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5078242	best: 0.5078242 (0)	total: 25.9ms	remaining: 1m 17s
+100:	test: 0.6810890	best: 0.6813509 (98)	total: 2.69s	remaining: 1m 17s
+200:	test: 0.6830139	best: 0.6831466 (197)	total: 5.38s	remaining: 1m 14s
+300:	test: 0.6847405	best: 0.6852161 (292)	total: 8.04s	remaining: 1m 12s
+400:	test: 0.6857147	best: 0.6860577 (392)	total: 10.7s	remaining: 1m 9s
+500:	test: 0.6849563	best: 0.6863937 (447)	total: 13.3s	remaining: 1m 6s
+bestTest = 0.6863937378
+bestIteration = 447
+Shrink model to first 448 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5078242	best: 0.5078242 (0)	total: 24.8ms	remaining: 1m 14s
+100:	test: 0.6798923	best: 0.6800299 (97)	total: 2.73s	remaining: 1m 18s
+200:	test: 0.6849536	best: 0.6849536 (200)	total: 5.39s	remaining: 1m 15s
+300:	test: 0.6861083	best: 0.6870912 (283)	total: 8.04s	remaining: 1m 12s
+400:	test: 0.6866882	best: 0.6872965 (335)	total: 10.7s	remaining: 1m 9s
+bestTest = 0.6872964799
+bestIteration = 335
+Shrink model to first 336 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5084738	best: 0.5084738 (0)	total: 24.7ms	remaining: 1m 14s
+100:	test: 0.6506866	best: 0.6518820 (96)	total: 2.58s	remaining: 1m 13s
+200:	test: 0.6695410	best: 0.6695437 (199)	total: 5.25s	remaining: 1m 13s
+300:	test: 0.6749203	best: 0.6749203 (300)	total: 7.93s	remaining: 1m 11s
+400:	test: 0.6786869	best: 0.6786869 (400)	total: 10.6s	remaining: 1m 8s
+500:	test: 0.6798440	best: 0.6798726 (486)	total: 13.3s	remaining: 1m 6s
+600:	test: 0.6811696	best: 0.6811710 (597)	total: 15.9s	remaining: 1m 3s
+700:	test: 0.6817637	best: 0.6819476 (640)	total: 18.6s	remaining: 1m
+800:	test: 0.6834674	best: 0.6834766 (797)	total: 21.3s	remaining: 58.4s
+900:	test: 0.6839405	best: 0.6839422 (897)	total: 23.9s	remaining: 55.7s
+1000:	test: 0.6844582	best: 0.6844582 (1000)	total: 26.6s	remaining: 53.1s
+1100:	test: 0.6848733	best: 0.6848809 (1099)	total: 29.3s	remaining: 50.5s
+1200:	test: 0.6856695	best: 0.6856695 (1200)	total: 31.9s	remaining: 47.8s
+1300:	test: 0.6863828	best: 0.6864047 (1296)	total: 34.6s	remaining: 45.2s
+1400:	test: 0.6871884	best: 0.6872169 (1357)	total: 37.3s	remaining: 42.6s
+1500:	test: 0.6875734	best: 0.6875734 (1500)	total: 40s	remaining: 39.9s
+1600:	test: 0.6880166	best: 0.6881038 (1566)	total: 42.7s	remaining: 37.3s
+1700:	test: 0.6887459	best: 0.6887953 (1696)	total: 45.3s	remaining: 34.6s
+1800:	test: 0.6889320	best: 0.6889462 (1799)	total: 48s	remaining: 32s
+1900:	test: 0.6892570	best: 0.6893176 (1885)	total: 50.7s	remaining: 29.3s
+2000:	test: 0.6896016	best: 0.6896016 (2000)	total: 53.3s	remaining: 26.6s
+2100:	test: 0.6897672	best: 0.6897672 (2100)	total: 56s	remaining: 24s
+2200:	test: 0.6902798	best: 0.6902798 (2200)	total: 58.7s	remaining: 21.3s
+2300:	test: 0.6903760	best: 0.6904432 (2274)	total: 1m 1s	remaining: 18.6s
+2400:	test: 0.6903518	best: 0.6904710 (2369)	total: 1m 3s	remaining: 16s
+bestTest = 0.6904709637
+bestIteration = 2369
+Shrink model to first 2370 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5084738	best: 0.5084738 (0)	total: 25.4ms	remaining: 1m 16s
+100:	test: 0.6708106	best: 0.6717027 (98)	total: 2.59s	remaining: 1m 14s
+200:	test: 0.6795127	best: 0.6795602 (199)	total: 5.21s	remaining: 1m 12s
+300:	test: 0.6829496	best: 0.6829496 (300)	total: 7.86s	remaining: 1m 10s
+400:	test: 0.6851093	best: 0.6852269 (394)	total: 10.5s	remaining: 1m 8s
+500:	test: 0.6858616	best: 0.6860701 (450)	total: 13.1s	remaining: 1m 5s
+600:	test: 0.6863674	best: 0.6866329 (549)	total: 15.9s	remaining: 1m 3s
+700:	test: 0.6873419	best: 0.6873617 (688)	total: 18.5s	remaining: 1m
+800:	test: 0.6879362	best: 0.6879551 (799)	total: 21.2s	remaining: 58.1s
+900:	test: 0.6889312	best: 0.6889312 (900)	total: 23.8s	remaining: 55.5s
+1000:	test: 0.6902277	best: 0.6902277 (1000)	total: 26.5s	remaining: 53s
+bestTest = 0.690227747
+bestIteration = 1000
+Shrink model to first 1001 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5084738	best: 0.5084738 (0)	total: 25.2ms	remaining: 1m 15s
+100:	test: 0.6768973	best: 0.6771680 (98)	total: 2.62s	remaining: 1m 15s
+200:	test: 0.6797471	best: 0.6797471 (200)	total: 5.25s	remaining: 1m 13s
+300:	test: 0.6835499	best: 0.6838612 (292)	total: 7.91s	remaining: 1m 10s
+400:	test: 0.6850677	best: 0.6852179 (393)	total: 10.6s	remaining: 1m 8s
+500:	test: 0.6863151	best: 0.6867624 (473)	total: 13.2s	remaining: 1m 6s
+bestTest = 0.6867624223
+bestIteration = 473
+Shrink model to first 474 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5084738	best: 0.5084738 (0)	total: 25.1ms	remaining: 1m 15s
+100:	test: 0.6812739	best: 0.6817296 (97)	total: 2.62s	remaining: 1m 15s
+200:	test: 0.6846681	best: 0.6847021 (198)	total: 5.26s	remaining: 1m 13s
+300:	test: 0.6872775	best: 0.6877305 (290)	total: 7.89s	remaining: 1m 10s
+400:	test: 0.6881300	best: 0.6884573 (327)	total: 10.6s	remaining: 1m 8s
+bestTest = 0.6884573102
+bestIteration = 327
+Shrink model to first 328 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5084738	best: 0.5084738 (0)	total: 26.3ms	remaining: 1m 18s
+100:	test: 0.6804118	best: 0.6806776 (96)	total: 2.75s	remaining: 1m 18s
+200:	test: 0.6832020	best: 0.6832703 (188)	total: 5.47s	remaining: 1m 16s
+300:	test: 0.6846704	best: 0.6848163 (295)	total: 8.22s	remaining: 1m 13s
+400:	test: 0.6853437	best: 0.6864260 (366)	total: 11s	remaining: 1m 11s
+bestTest = 0.6864259541
+bestIteration = 366
+Shrink model to first 367 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 25.5ms	remaining: 1m 16s
+100:	test: 0.6489863	best: 0.6506839 (86)	total: 2.65s	remaining: 1m 16s
+200:	test: 0.6705132	best: 0.6705132 (200)	total: 5.27s	remaining: 1m 13s
+300:	test: 0.6752197	best: 0.6752197 (300)	total: 7.95s	remaining: 1m 11s
+400:	test: 0.6793580	best: 0.6793580 (400)	total: 10.7s	remaining: 1m 9s
+500:	test: 0.6813720	best: 0.6813720 (500)	total: 13.4s	remaining: 1m 6s
+600:	test: 0.6823704	best: 0.6823704 (600)	total: 16.1s	remaining: 1m 4s
+700:	test: 0.6827176	best: 0.6828440 (662)	total: 18.9s	remaining: 1m 1s
+800:	test: 0.6840648	best: 0.6840668 (798)	total: 21.6s	remaining: 59.3s
+900:	test: 0.6848728	best: 0.6849103 (890)	total: 24.3s	remaining: 56.7s
+1000:	test: 0.6860487	best: 0.6860662 (999)	total: 27s	remaining: 54s
+1100:	test: 0.6865093	best: 0.6865318 (1078)	total: 29.8s	remaining: 51.3s
+1200:	test: 0.6869099	best: 0.6869099 (1200)	total: 32.4s	remaining: 48.6s
+1300:	test: 0.6874911	best: 0.6874920 (1299)	total: 35.1s	remaining: 45.9s
+1400:	test: 0.6883841	best: 0.6884180 (1399)	total: 37.8s	remaining: 43.2s
+1500:	test: 0.6890523	best: 0.6890523 (1500)	total: 40.5s	remaining: 40.5s
+1600:	test: 0.6894633	best: 0.6895423 (1563)	total: 43.2s	remaining: 37.8s
+1700:	test: 0.6898431	best: 0.6898633 (1696)	total: 45.9s	remaining: 35s
+1800:	test: 0.6901972	best: 0.6901975 (1798)	total: 48.6s	remaining: 32.4s
+1900:	test: 0.6907802	best: 0.6907802 (1900)	total: 51.3s	remaining: 29.7s
+2000:	test: 0.6912494	best: 0.6912494 (2000)	total: 54s	remaining: 27s
+2100:	test: 0.6914487	best: 0.6914487 (2100)	total: 56.8s	remaining: 24.3s
+2200:	test: 0.6917763	best: 0.6917839 (2195)	total: 59.6s	remaining: 21.6s
+2300:	test: 0.6919438	best: 0.6920440 (2277)	total: 1m 2s	remaining: 18.9s
+2400:	test: 0.6919265	best: 0.6921479 (2325)	total: 1m 5s	remaining: 16.2s
+bestTest = 0.6921479404
+bestIteration = 2325
+Shrink model to first 2326 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 25.5ms	remaining: 1m 16s
+100:	test: 0.6717128	best: 0.6726654 (98)	total: 2.67s	remaining: 1m 16s
+200:	test: 0.6784606	best: 0.6786014 (199)	total: 5.37s	remaining: 1m 14s
+300:	test: 0.6835096	best: 0.6835325 (293)	total: 8.1s	remaining: 1m 12s
+400:	test: 0.6857511	best: 0.6857841 (394)	total: 10.8s	remaining: 1m 9s
+500:	test: 0.6877219	best: 0.6877326 (498)	total: 13.5s	remaining: 1m 7s
+600:	test: 0.6885250	best: 0.6887188 (549)	total: 16.2s	remaining: 1m 4s
+700:	test: 0.6896729	best: 0.6896729 (700)	total: 18.8s	remaining: 1m 1s
+800:	test: 0.6902286	best: 0.6902511 (797)	total: 21.5s	remaining: 59s
+900:	test: 0.6908798	best: 0.6908798 (900)	total: 24.1s	remaining: 56.2s
+1000:	test: 0.6927433	best: 0.6927433 (1000)	total: 26.8s	remaining: 53.6s
+bestTest = 0.6927666068
+bestIteration = 1001
+Shrink model to first 1002 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 25.4ms	remaining: 1m 16s
+100:	test: 0.6767732	best: 0.6767978 (96)	total: 2.62s	remaining: 1m 15s
+200:	test: 0.6833034	best: 0.6833051 (199)	total: 5.25s	remaining: 1m 13s
+300:	test: 0.6857785	best: 0.6859260 (292)	total: 7.92s	remaining: 1m 10s
+400:	test: 0.6883433	best: 0.6883897 (390)	total: 10.6s	remaining: 1m 8s
+500:	test: 0.6890747	best: 0.6892364 (481)	total: 13.3s	remaining: 1m 6s
+600:	test: 0.6897180	best: 0.6900910 (561)	total: 16s	remaining: 1m 3s
+700:	test: 0.6910106	best: 0.6910369 (699)	total: 18.7s	remaining: 1m 1s
+800:	test: 0.6921633	best: 0.6921818 (797)	total: 21.4s	remaining: 58.8s
+900:	test: 0.6918036	best: 0.6923994 (842)	total: 24.1s	remaining: 56.2s
+bestTest = 0.6923994124
+bestIteration = 842
+Shrink model to first 843 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 25.3ms	remaining: 1m 15s
+100:	test: 0.6813512	best: 0.6817074 (97)	total: 2.63s	remaining: 1m 15s
+200:	test: 0.6861601	best: 0.6861882 (198)	total: 5.29s	remaining: 1m 13s
+300:	test: 0.6884146	best: 0.6885410 (290)	total: 7.96s	remaining: 1m 11s
+400:	test: 0.6895164	best: 0.6902348 (391)	total: 10.7s	remaining: 1m 9s
+500:	test: 0.6895900	best: 0.6903073 (478)	total: 13.4s	remaining: 1m 6s
+bestTest = 0.6903073192
+bestIteration = 478
+Shrink model to first 479 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 26.2ms	remaining: 1m 18s
+100:	test: 0.6814512	best: 0.6815825 (96)	total: 2.67s	remaining: 1m 16s
+200:	test: 0.6853154	best: 0.6853154 (200)	total: 5.35s	remaining: 1m 14s
+300:	test: 0.6885243	best: 0.6886403 (294)	total: 8.04s	remaining: 1m 12s
+bestTest = 0.6886402965
+bestIteration = 294
+Shrink model to first 295 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 25.5ms	remaining: 1m 16s
+100:	test: 0.6481019	best: 0.6489938 (94)	total: 2.66s	remaining: 1m 16s
+200:	test: 0.6710037	best: 0.6710037 (200)	total: 5.32s	remaining: 1m 14s
+300:	test: 0.6763496	best: 0.6763496 (300)	total: 8.02s	remaining: 1m 11s
+400:	test: 0.6803890	best: 0.6804180 (398)	total: 10.7s	remaining: 1m 9s
+500:	test: 0.6817966	best: 0.6817982 (489)	total: 13.4s	remaining: 1m 6s
+600:	test: 0.6832083	best: 0.6832083 (600)	total: 16s	remaining: 1m 4s
+700:	test: 0.6833123	best: 0.6833975 (646)	total: 18.7s	remaining: 1m 1s
+800:	test: 0.6844928	best: 0.6844928 (800)	total: 21.4s	remaining: 58.6s
+900:	test: 0.6851856	best: 0.6852833 (858)	total: 24s	remaining: 56s
+1000:	test: 0.6860756	best: 0.6860756 (1000)	total: 26.7s	remaining: 53.3s
+1100:	test: 0.6865211	best: 0.6866232 (1079)	total: 29.4s	remaining: 50.6s
+1200:	test: 0.6871575	best: 0.6871575 (1200)	total: 32s	remaining: 48s
+1300:	test: 0.6877840	best: 0.6877845 (1299)	total: 34.8s	remaining: 45.5s
+1400:	test: 0.6885837	best: 0.6886625 (1387)	total: 37.5s	remaining: 42.8s
+1500:	test: 0.6889710	best: 0.6889858 (1495)	total: 40.2s	remaining: 40.2s
+1600:	test: 0.6894135	best: 0.6895271 (1559)	total: 43s	remaining: 37.6s
+1700:	test: 0.6898762	best: 0.6898762 (1700)	total: 45.8s	remaining: 35s
+1800:	test: 0.6901291	best: 0.6901411 (1798)	total: 48.6s	remaining: 32.3s
+1900:	test: 0.6905003	best: 0.6905132 (1898)	total: 51.3s	remaining: 29.7s
+2000:	test: 0.6909545	best: 0.6909545 (2000)	total: 54.2s	remaining: 27s
+2100:	test: 0.6913088	best: 0.6913277 (2086)	total: 56.9s	remaining: 24.4s
+2200:	test: 0.6917527	best: 0.6917894 (2185)	total: 59.7s	remaining: 21.7s
+2300:	test: 0.6919591	best: 0.6920855 (2277)	total: 1m 2s	remaining: 19s
+2400:	test: 0.6918922	best: 0.6921353 (2343)	total: 1m 5s	remaining: 16.3s
+bestTest = 0.6921352744
+bestIteration = 2343
+Shrink model to first 2344 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 25ms	remaining: 1m 15s
+100:	test: 0.6728513	best: 0.6736284 (98)	total: 2.68s	remaining: 1m 16s
+200:	test: 0.6804642	best: 0.6804642 (200)	total: 5.36s	remaining: 1m 14s
+300:	test: 0.6851110	best: 0.6851619 (295)	total: 8.15s	remaining: 1m 13s
+400:	test: 0.6874008	best: 0.6874561 (396)	total: 10.9s	remaining: 1m 10s
+500:	test: 0.6876309	best: 0.6877206 (489)	total: 13.6s	remaining: 1m 8s
+600:	test: 0.6891033	best: 0.6891478 (584)	total: 16.4s	remaining: 1m 5s
+700:	test: 0.6895393	best: 0.6895393 (700)	total: 19.1s	remaining: 1m 2s
+800:	test: 0.6902377	best: 0.6902377 (800)	total: 21.8s	remaining: 60s
+900:	test: 0.6912587	best: 0.6912587 (900)	total: 24.6s	remaining: 57.4s
+1000:	test: 0.6925633	best: 0.6925633 (1000)	total: 27.4s	remaining: 54.7s
+bestTest = 0.6926232576
+bestIteration = 1005
+Shrink model to first 1006 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 25.4ms	remaining: 1m 16s
+100:	test: 0.6792883	best: 0.6792883 (100)	total: 2.71s	remaining: 1m 17s
+200:	test: 0.6831379	best: 0.6832939 (198)	total: 5.45s	remaining: 1m 15s
+300:	test: 0.6863692	best: 0.6865491 (292)	total: 8.28s	remaining: 1m 14s
+400:	test: 0.6881158	best: 0.6882893 (392)	total: 11.1s	remaining: 1m 11s
+500:	test: 0.6897715	best: 0.6897715 (500)	total: 13.9s	remaining: 1m 9s
+600:	test: 0.6901093	best: 0.6906777 (538)	total: 16.7s	remaining: 1m 6s
+700:	test: 0.6905534	best: 0.6908411 (643)	total: 19.5s	remaining: 1m 4s
+800:	test: 0.6922876	best: 0.6923522 (797)	total: 22.3s	remaining: 1m 1s
+900:	test: 0.6925215	best: 0.6927793 (825)	total: 25.1s	remaining: 58.6s
+bestTest = 0.6927793026
+bestIteration = 825
+Shrink model to first 826 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 25.7ms	remaining: 1m 17s
+100:	test: 0.6818265	best: 0.6823867 (97)	total: 2.68s	remaining: 1m 16s
+200:	test: 0.6851378	best: 0.6851600 (198)	total: 5.38s	remaining: 1m 14s
+300:	test: 0.6873980	best: 0.6875722 (293)	total: 8.1s	remaining: 1m 12s
+400:	test: 0.6891629	best: 0.6896008 (391)	total: 10.8s	remaining: 1m 10s
+bestTest = 0.6896007657
+bestIteration = 391
+Shrink model to first 392 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 24.8ms	remaining: 1m 14s
+100:	test: 0.6811063	best: 0.6813488 (96)	total: 2.62s	remaining: 1m 15s
+200:	test: 0.6860135	best: 0.6860923 (198)	total: 5.31s	remaining: 1m 13s
+300:	test: 0.6898552	best: 0.6898552 (300)	total: 7.99s	remaining: 1m 11s
+bestTest = 0.6898554564
+bestIteration = 301
+Shrink model to first 302 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 25ms	remaining: 1m 14s
+100:	test: 0.6485182	best: 0.6490508 (94)	total: 2.65s	remaining: 1m 15s
+200:	test: 0.6718477	best: 0.6718477 (200)	total: 5.24s	remaining: 1m 12s
+300:	test: 0.6763064	best: 0.6763064 (300)	total: 7.89s	remaining: 1m 10s
+400:	test: 0.6805996	best: 0.6806325 (398)	total: 10.5s	remaining: 1m 8s
+500:	test: 0.6826725	best: 0.6826725 (500)	total: 13.2s	remaining: 1m 5s
+600:	test: 0.6839461	best: 0.6839461 (600)	total: 15.9s	remaining: 1m 3s
+700:	test: 0.6842302	best: 0.6844186 (646)	total: 18.5s	remaining: 1m
+800:	test: 0.6852590	best: 0.6852743 (782)	total: 21.2s	remaining: 58.2s
+900:	test: 0.6858681	best: 0.6860578 (869)	total: 23.9s	remaining: 55.6s
+1000:	test: 0.6867099	best: 0.6867099 (1000)	total: 26.5s	remaining: 53s
+1100:	test: 0.6868850	best: 0.6869557 (1079)	total: 29.2s	remaining: 50.3s
+1200:	test: 0.6874838	best: 0.6874838 (1200)	total: 31.8s	remaining: 47.7s
+1300:	test: 0.6879802	best: 0.6879979 (1295)	total: 34.5s	remaining: 45.1s
+1400:	test: 0.6887434	best: 0.6888485 (1387)	total: 37.2s	remaining: 42.5s
+1500:	test: 0.6892253	best: 0.6892253 (1500)	total: 39.9s	remaining: 39.9s
+1600:	test: 0.6899092	best: 0.6899542 (1565)	total: 42.6s	remaining: 37.2s
+1700:	test: 0.6904090	best: 0.6904181 (1684)	total: 45.3s	remaining: 34.6s
+1800:	test: 0.6905964	best: 0.6906633 (1721)	total: 48.1s	remaining: 32s
+bestTest = 0.6906633079
+bestIteration = 1721
+Shrink model to first 1722 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 25.7ms	remaining: 1m 17s
+100:	test: 0.6745645	best: 0.6745645 (100)	total: 2.73s	remaining: 1m 18s
+200:	test: 0.6797347	best: 0.6797347 (200)	total: 5.48s	remaining: 1m 16s
+300:	test: 0.6851266	best: 0.6852221 (295)	total: 8.22s	remaining: 1m 13s
+400:	test: 0.6873228	best: 0.6874385 (396)	total: 10.9s	remaining: 1m 10s
+bestTest = 0.687438488
+bestIteration = 396
+Shrink model to first 397 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 26.5ms	remaining: 1m 19s
+100:	test: 0.6808272	best: 0.6808272 (100)	total: 2.68s	remaining: 1m 16s
+200:	test: 0.6836976	best: 0.6838352 (198)	total: 5.4s	remaining: 1m 15s
+300:	test: 0.6872801	best: 0.6874888 (290)	total: 8.14s	remaining: 1m 12s
+bestTest = 0.6874887943
+bestIteration = 290
+Shrink model to first 291 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 25.3ms	remaining: 1m 15s
+100:	test: 0.6823298	best: 0.6826855 (97)	total: 2.75s	remaining: 1m 18s
+200:	test: 0.6852681	best: 0.6853007 (198)	total: 5.47s	remaining: 1m 16s
+300:	test: 0.6873969	best: 0.6875961 (292)	total: 8.21s	remaining: 1m 13s
+400:	test: 0.6895125	best: 0.6898025 (391)	total: 11s	remaining: 1m 11s
+500:	test: 0.6908145	best: 0.6908578 (496)	total: 13.7s	remaining: 1m 8s
+600:	test: 0.6915317	best: 0.6919330 (590)	total: 16.5s	remaining: 1m 5s
+bestTest = 0.6919329762
+bestIteration = 590
+Shrink model to first 591 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4998853	best: 0.4998853 (0)	total: 25ms	remaining: 1m 15s
+100:	test: 0.6801271	best: 0.6803787 (97)	total: 2.75s	remaining: 1m 18s
+200:	test: 0.6854017	best: 0.6854751 (198)	total: 5.48s	remaining: 1m 16s
+300:	test: 0.6875886	best: 0.6878211 (291)	total: 8.24s	remaining: 1m 13s
+400:	test: 0.6894236	best: 0.6895436 (392)	total: 11s	remaining: 1m 11s
+bestTest = 0.6895436049
+bestIteration = 392
+Shrink model to first 393 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5117245	best: 0.5117245 (0)	total: 43.6ms	remaining: 21.7s
+100:	test: 0.6498716	best: 0.6498716 (100)	total: 4.64s	remaining: 18.3s
+200:	test: 0.6754729	best: 0.6754729 (200)	total: 9.38s	remaining: 13.9s
+300:	test: 0.6801436	best: 0.6801436 (300)	total: 14.1s	remaining: 9.35s
+400:	test: 0.6829979	best: 0.6829979 (400)	total: 19s	remaining: 4.68s
+499:	test: 0.6845280	best: 0.6845824 (498)	total: 23.7s	remaining: 0us
+bestTest = 0.684582442
+bestIteration = 498
+Shrink model to first 499 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5117245	best: 0.5117245 (0)	total: 43.9ms	remaining: 21.9s
+100:	test: 0.6754571	best: 0.6754571 (100)	total: 4.68s	remaining: 18.5s
+200:	test: 0.6837330	best: 0.6837330 (200)	total: 9.49s	remaining: 14.1s
+bestTest = 0.6844013929
+bestIteration = 217
+Shrink model to first 218 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5117245	best: 0.5117245 (0)	total: 44.8ms	remaining: 22.4s
+100:	test: 0.6750754	best: 0.6750754 (100)	total: 4.86s	remaining: 19.2s
+200:	test: 0.6833034	best: 0.6834714 (181)	total: 9.8s	remaining: 14.6s
+300:	test: 0.6868177	best: 0.6868177 (300)	total: 14.7s	remaining: 9.69s
+400:	test: 0.6887002	best: 0.6887002 (400)	total: 19.6s	remaining: 4.83s
+bestTest = 0.6892645359
+bestIteration = 411
+Shrink model to first 412 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5117245	best: 0.5117245 (0)	total: 45.4ms	remaining: 22.6s
+100:	test: 0.6807232	best: 0.6807969 (98)	total: 4.89s	remaining: 19.3s
+200:	test: 0.6823513	best: 0.6828195 (193)	total: 9.67s	remaining: 14.4s
+300:	test: 0.6847905	best: 0.6853693 (228)	total: 14.5s	remaining: 9.56s
+bestTest = 0.6853692532
+bestIteration = 228
+Shrink model to first 229 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5117245	best: 0.5117245 (0)	total: 43.7ms	remaining: 21.8s
+100:	test: 0.6831632	best: 0.6852722 (76)	total: 4.75s	remaining: 18.8s
+200:	test: 0.6871389	best: 0.6872098 (199)	total: 9.52s	remaining: 14.2s
+300:	test: 0.6870654	best: 0.6886178 (279)	total: 14.3s	remaining: 9.47s
+bestTest = 0.6886177957
+bestIteration = 279
+Shrink model to first 280 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5068348	best: 0.5068348 (0)	total: 44.7ms	remaining: 22.3s
+100:	test: 0.6548016	best: 0.6548016 (100)	total: 4.64s	remaining: 18.3s
+200:	test: 0.6757435	best: 0.6758208 (198)	total: 9.39s	remaining: 14s
+300:	test: 0.6811872	best: 0.6812420 (297)	total: 14.2s	remaining: 9.4s
+400:	test: 0.6839160	best: 0.6839160 (400)	total: 19s	remaining: 4.69s
+499:	test: 0.6852743	best: 0.6854692 (479)	total: 23.7s	remaining: 0us
+bestTest = 0.6854691803
+bestIteration = 479
+Shrink model to first 480 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5068348	best: 0.5068348 (0)	total: 46ms	remaining: 23s
+100:	test: 0.6729425	best: 0.6729425 (100)	total: 4.68s	remaining: 18.5s
+200:	test: 0.6825264	best: 0.6826238 (198)	total: 9.46s	remaining: 14.1s
+300:	test: 0.6852944	best: 0.6852944 (300)	total: 14.2s	remaining: 9.42s
+400:	test: 0.6871907	best: 0.6872577 (392)	total: 19s	remaining: 4.7s
+499:	test: 0.6884836	best: 0.6884836 (499)	total: 23.7s	remaining: 0us
+bestTest = 0.6884836257
+bestIteration = 499
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5068348	best: 0.5068348 (0)	total: 44.1ms	remaining: 22s
+100:	test: 0.6761972	best: 0.6769500 (94)	total: 4.74s	remaining: 18.7s
+200:	test: 0.6846477	best: 0.6846745 (199)	total: 9.52s	remaining: 14.2s
+300:	test: 0.6862410	best: 0.6862410 (300)	total: 14.3s	remaining: 9.45s
+400:	test: 0.6881160	best: 0.6882094 (393)	total: 19.1s	remaining: 4.71s
+499:	test: 0.6886469	best: 0.6886535 (461)	total: 23.9s	remaining: 0us
+bestTest = 0.6886535287
+bestIteration = 461
+Shrink model to first 462 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5068348	best: 0.5068348 (0)	total: 43.3ms	remaining: 21.6s
+100:	test: 0.6818417	best: 0.6825048 (87)	total: 4.75s	remaining: 18.8s
+200:	test: 0.6873289	best: 0.6873289 (200)	total: 9.52s	remaining: 14.2s
+300:	test: 0.6887757	best: 0.6892880 (289)	total: 14.3s	remaining: 9.46s
+400:	test: 0.6909870	best: 0.6910361 (398)	total: 19.2s	remaining: 4.75s
+499:	test: 0.6911182	best: 0.6917664 (421)	total: 24s	remaining: 0us
+bestTest = 0.6917663515
+bestIteration = 421
+Shrink model to first 422 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5068348	best: 0.5068348 (0)	total: 44ms	remaining: 21.9s
+100:	test: 0.6881946	best: 0.6889480 (76)	total: 4.73s	remaining: 18.7s
+200:	test: 0.6919046	best: 0.6919422 (193)	total: 9.57s	remaining: 14.2s
+300:	test: 0.6915043	best: 0.6935044 (231)	total: 14.4s	remaining: 9.49s
+bestTest = 0.6935043633
+bestIteration = 231
+Shrink model to first 232 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5044655	best: 0.5044655 (0)	total: 44ms	remaining: 21.9s
+100:	test: 0.6537195	best: 0.6537195 (100)	total: 4.59s	remaining: 18.1s
+200:	test: 0.6768943	best: 0.6770523 (198)	total: 9.26s	remaining: 13.8s
+300:	test: 0.6817210	best: 0.6817302 (299)	total: 14.1s	remaining: 9.31s
+400:	test: 0.6841635	best: 0.6841635 (400)	total: 18.9s	remaining: 4.68s
+499:	test: 0.6854436	best: 0.6856795 (477)	total: 23.7s	remaining: 0us
+bestTest = 0.6856795251
+bestIteration = 477
+Shrink model to first 478 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5044655	best: 0.5044655 (0)	total: 44.1ms	remaining: 22s
+100:	test: 0.6738562	best: 0.6738562 (100)	total: 4.71s	remaining: 18.6s
+200:	test: 0.6838530	best: 0.6838723 (189)	total: 9.5s	remaining: 14.1s
+300:	test: 0.6855504	best: 0.6855554 (298)	total: 14.2s	remaining: 9.4s
+400:	test: 0.6884860	best: 0.6885266 (396)	total: 19s	remaining: 4.68s
+499:	test: 0.6893056	best: 0.6896296 (474)	total: 23.7s	remaining: 0us
+bestTest = 0.6896295547
+bestIteration = 474
+Shrink model to first 475 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5044655	best: 0.5044655 (0)	total: 43.4ms	remaining: 21.6s
+100:	test: 0.6770470	best: 0.6774000 (99)	total: 4.73s	remaining: 18.7s
+200:	test: 0.6844902	best: 0.6847052 (192)	total: 9.54s	remaining: 14.2s
+300:	test: 0.6883301	best: 0.6883301 (300)	total: 14.3s	remaining: 9.47s
+400:	test: 0.6898482	best: 0.6901906 (369)	total: 19.1s	remaining: 4.72s
+bestTest = 0.6901906431
+bestIteration = 369
+Shrink model to first 370 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5044655	best: 0.5044655 (0)	total: 42.9ms	remaining: 21.4s
+100:	test: 0.6829871	best: 0.6830665 (99)	total: 4.77s	remaining: 18.8s
+200:	test: 0.6902417	best: 0.6902417 (200)	total: 9.59s	remaining: 14.3s
+300:	test: 0.6920649	best: 0.6923102 (289)	total: 14.4s	remaining: 9.51s
+400:	test: 0.6953325	best: 0.6953386 (395)	total: 19.2s	remaining: 4.74s
+499:	test: 0.6950901	best: 0.6954976 (485)	total: 23.9s	remaining: 0us
+bestTest = 0.6954975724
+bestIteration = 485
+Shrink model to first 486 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5044655	best: 0.5044655 (0)	total: 43.2ms	remaining: 21.5s
+100:	test: 0.6835829	best: 0.6839426 (89)	total: 4.74s	remaining: 18.7s
+200:	test: 0.6916265	best: 0.6917936 (192)	total: 9.58s	remaining: 14.3s
+300:	test: 0.6913179	best: 0.6925958 (268)	total: 14.4s	remaining: 9.51s
+bestTest = 0.6925958097
+bestIteration = 268
+Shrink model to first 269 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4977958	best: 0.4977958 (0)	total: 42.8ms	remaining: 21.4s
+100:	test: 0.6601475	best: 0.6601475 (100)	total: 4.62s	remaining: 18.3s
+200:	test: 0.6776195	best: 0.6779228 (196)	total: 9.32s	remaining: 13.9s
+300:	test: 0.6822013	best: 0.6822162 (299)	total: 14.1s	remaining: 9.35s
+400:	test: 0.6854112	best: 0.6854112 (400)	total: 19s	remaining: 4.69s
+499:	test: 0.6863768	best: 0.6864151 (479)	total: 23.7s	remaining: 0us
+bestTest = 0.6864151359
+bestIteration = 479
+Shrink model to first 480 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4977958	best: 0.4977958 (0)	total: 43ms	remaining: 21.4s
+100:	test: 0.6742733	best: 0.6742733 (100)	total: 4.68s	remaining: 18.5s
+200:	test: 0.6835771	best: 0.6836835 (178)	total: 9.49s	remaining: 14.1s
+300:	test: 0.6864822	best: 0.6865777 (299)	total: 14.3s	remaining: 9.42s
+400:	test: 0.6889842	best: 0.6889842 (400)	total: 19s	remaining: 4.69s
+499:	test: 0.6897323	best: 0.6897323 (499)	total: 23.7s	remaining: 0us
+bestTest = 0.6897322536
+bestIteration = 499
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4977958	best: 0.4977958 (0)	total: 43.8ms	remaining: 21.9s
+100:	test: 0.6796149	best: 0.6800586 (94)	total: 4.67s	remaining: 18.5s
+200:	test: 0.6864032	best: 0.6867684 (192)	total: 9.44s	remaining: 14s
+300:	test: 0.6892802	best: 0.6893702 (270)	total: 14.2s	remaining: 9.41s
+400:	test: 0.6914532	best: 0.6914693 (399)	total: 19s	remaining: 4.7s
+499:	test: 0.6917611	best: 0.6918681 (487)	total: 23.7s	remaining: 0us
+bestTest = 0.6918680966
+bestIteration = 487
+Shrink model to first 488 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4977958	best: 0.4977958 (0)	total: 45.4ms	remaining: 22.6s
+100:	test: 0.6823418	best: 0.6824143 (99)	total: 4.83s	remaining: 19.1s
+200:	test: 0.6891692	best: 0.6891692 (200)	total: 9.7s	remaining: 14.4s
+300:	test: 0.6918657	best: 0.6921511 (294)	total: 14.5s	remaining: 9.6s
+400:	test: 0.6927535	best: 0.6932698 (392)	total: 19.4s	remaining: 4.78s
+bestTest = 0.6932698488
+bestIteration = 392
+Shrink model to first 393 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.4977958	best: 0.4977958 (0)	total: 45.2ms	remaining: 22.5s
+100:	test: 0.6814616	best: 0.6814857 (79)	total: 4.81s	remaining: 19s
+200:	test: 0.6884179	best: 0.6884399 (197)	total: 9.7s	remaining: 14.4s
+300:	test: 0.6930716	best: 0.6933502 (291)	total: 14.7s	remaining: 9.72s
+400:	test: 0.6931860	best: 0.6933976 (324)	total: 19.6s	remaining: 4.84s
+bestTest = 0.6936615109
+bestIteration = 418
+Shrink model to first 419 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5027403	best: 0.5027403 (0)	total: 46.9ms	remaining: 23.4s
+100:	test: 0.6543968	best: 0.6543968 (100)	total: 4.63s	remaining: 18.3s
+200:	test: 0.6778102	best: 0.6780578 (198)	total: 9.31s	remaining: 13.9s
+300:	test: 0.6831101	best: 0.6831146 (299)	total: 14.2s	remaining: 9.37s
+400:	test: 0.6864278	best: 0.6864278 (400)	total: 19.2s	remaining: 4.73s
+499:	test: 0.6879172	best: 0.6879801 (479)	total: 23.8s	remaining: 0us
+bestTest = 0.6879800558
+bestIteration = 479
+Shrink model to first 480 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5027403	best: 0.5027403 (0)	total: 43.1ms	remaining: 21.5s
+100:	test: 0.6745389	best: 0.6745389 (100)	total: 4.67s	remaining: 18.4s
+200:	test: 0.6836910	best: 0.6836970 (196)	total: 9.47s	remaining: 14.1s
+300:	test: 0.6871660	best: 0.6872938 (298)	total: 14.2s	remaining: 9.4s
+400:	test: 0.6893232	best: 0.6894502 (393)	total: 19s	remaining: 4.68s
+499:	test: 0.6890401	best: 0.6895607 (427)	total: 23.7s	remaining: 0us
+bestTest = 0.6895607114
+bestIteration = 427
+Shrink model to first 428 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5027403	best: 0.5027403 (0)	total: 43.1ms	remaining: 21.5s
+100:	test: 0.6755042	best: 0.6764164 (89)	total: 4.67s	remaining: 18.4s
+200:	test: 0.6843483	best: 0.6844176 (198)	total: 9.44s	remaining: 14s
+300:	test: 0.6879371	best: 0.6879954 (294)	total: 14.3s	remaining: 9.48s
+400:	test: 0.6907379	best: 0.6910437 (374)	total: 19.2s	remaining: 4.74s
+499:	test: 0.6919659	best: 0.6924981 (477)	total: 24s	remaining: 0us
+bestTest = 0.6924980879
+bestIteration = 477
+Shrink model to first 478 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5027403	best: 0.5027403 (0)	total: 43.2ms	remaining: 21.6s
+100:	test: 0.6842636	best: 0.6843563 (99)	total: 4.92s	remaining: 19.4s
+200:	test: 0.6902536	best: 0.6903593 (192)	total: 9.71s	remaining: 14.4s
+300:	test: 0.6934481	best: 0.6934631 (299)	total: 14.6s	remaining: 9.62s
+400:	test: 0.6950608	best: 0.6952311 (395)	total: 19.4s	remaining: 4.8s
+bestTest = 0.695541501
+bestIteration = 418
+Shrink model to first 419 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5027403	best: 0.5027403 (0)	total: 43.1ms	remaining: 21.5s
+100:	test: 0.6851996	best: 0.6855710 (79)	total: 4.81s	remaining: 19s
+200:	test: 0.6925494	best: 0.6925494 (200)	total: 9.65s	remaining: 14.4s
+300:	test: 0.6954364	best: 0.6956685 (231)	total: 14.5s	remaining: 9.55s
+bestTest = 0.6956685483
+bestIteration = 231
+Shrink model to first 232 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5117245	best: 0.5117245 (0)	total: 44.2ms	remaining: 44.2s
+100:	test: 0.6498716	best: 0.6498716 (100)	total: 4.66s	remaining: 41.4s
+200:	test: 0.6754729	best: 0.6754729 (200)	total: 9.38s	remaining: 37.3s
+300:	test: 0.6801436	best: 0.6801436 (300)	total: 14.2s	remaining: 32.9s
+400:	test: 0.6829979	best: 0.6829979 (400)	total: 19s	remaining: 28.3s
+500:	test: 0.6847181	best: 0.6847181 (500)	total: 23.7s	remaining: 23.6s
+600:	test: 0.6855829	best: 0.6856582 (597)	total: 28.4s	remaining: 18.9s
+700:	test: 0.6868916	best: 0.6870543 (690)	total: 33.2s	remaining: 14.1s
+800:	test: 0.6875962	best: 0.6876344 (769)	total: 37.9s	remaining: 9.42s
+900:	test: 0.6879932	best: 0.6884362 (864)	total: 42.7s	remaining: 4.69s
+bestTest = 0.6884362102
+bestIteration = 864
+Shrink model to first 865 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5117245	best: 0.5117245 (0)	total: 44.8ms	remaining: 44.7s
+100:	test: 0.6754571	best: 0.6754571 (100)	total: 4.69s	remaining: 41.7s
+200:	test: 0.6837330	best: 0.6837330 (200)	total: 9.41s	remaining: 37.4s
+bestTest = 0.6844013929
+bestIteration = 217
+Shrink model to first 218 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5117245	best: 0.5117245 (0)	total: 44.2ms	remaining: 44.2s
+100:	test: 0.6750754	best: 0.6750754 (100)	total: 4.83s	remaining: 43s
+200:	test: 0.6832694	best: 0.6834505 (179)	total: 9.77s	remaining: 38.8s
+300:	test: 0.6867908	best: 0.6867908 (300)	total: 14.7s	remaining: 34.1s
+400:	test: 0.6886744	best: 0.6886744 (400)	total: 19.6s	remaining: 29.3s
+bestTest = 0.6892414093
+bestIteration = 411
+Shrink model to first 412 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5117245	best: 0.5117245 (0)	total: 45.8ms	remaining: 45.7s
+100:	test: 0.6807232	best: 0.6807969 (98)	total: 4.88s	remaining: 43.4s
+200:	test: 0.6823513	best: 0.6828195 (193)	total: 9.79s	remaining: 38.9s
+300:	test: 0.6847905	best: 0.6853693 (228)	total: 14.7s	remaining: 34.2s
+bestTest = 0.6853692532
+bestIteration = 228
+Shrink model to first 229 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5117245	best: 0.5117245 (0)	total: 44.4ms	remaining: 44.4s
+100:	test: 0.6831632	best: 0.6852722 (76)	total: 4.72s	remaining: 42s
+200:	test: 0.6871389	best: 0.6872098 (199)	total: 9.62s	remaining: 38.2s
+300:	test: 0.6870654	best: 0.6886178 (279)	total: 14.5s	remaining: 33.8s
+bestTest = 0.6886177957
+bestIteration = 279
+Shrink model to first 280 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5068348	best: 0.5068348 (0)	total: 45.8ms	remaining: 45.8s
+100:	test: 0.6548016	best: 0.6548016 (100)	total: 4.79s	remaining: 42.6s
+200:	test: 0.6757435	best: 0.6758208 (198)	total: 9.63s	remaining: 38.3s
+300:	test: 0.6811872	best: 0.6812420 (297)	total: 14.4s	remaining: 33.5s
+400:	test: 0.6839160	best: 0.6839160 (400)	total: 19.3s	remaining: 28.9s
+500:	test: 0.6853327	best: 0.6854692 (479)	total: 24.2s	remaining: 24.1s
+600:	test: 0.6865210	best: 0.6866513 (597)	total: 29.2s	remaining: 19.4s
+700:	test: 0.6878666	best: 0.6878802 (698)	total: 34s	remaining: 14.5s
+800:	test: 0.6886039	best: 0.6888617 (756)	total: 38.8s	remaining: 9.65s
+900:	test: 0.6889575	best: 0.6890804 (867)	total: 43.8s	remaining: 4.81s
+999:	test: 0.6896197	best: 0.6896247 (998)	total: 48.6s	remaining: 0us
+bestTest = 0.6896246672
+bestIteration = 998
+Shrink model to first 999 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5068348	best: 0.5068348 (0)	total: 44.6ms	remaining: 44.5s
+100:	test: 0.6729425	best: 0.6729425 (100)	total: 4.7s	remaining: 41.9s
+200:	test: 0.6825264	best: 0.6826238 (198)	total: 9.5s	remaining: 37.8s
+300:	test: 0.6852944	best: 0.6852944 (300)	total: 14.3s	remaining: 33.2s
+400:	test: 0.6871907	best: 0.6872577 (392)	total: 19.1s	remaining: 28.5s
+500:	test: 0.6885253	best: 0.6885253 (500)	total: 24s	remaining: 23.9s
+600:	test: 0.6901720	best: 0.6901921 (599)	total: 28.9s	remaining: 19.2s
+700:	test: 0.6908463	best: 0.6910994 (661)	total: 33.9s	remaining: 14.5s
+bestTest = 0.6910994351
+bestIteration = 661
+Shrink model to first 662 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5068348	best: 0.5068348 (0)	total: 45.4ms	remaining: 45.4s
+100:	test: 0.6761972	best: 0.6769500 (94)	total: 4.86s	remaining: 43.3s
+200:	test: 0.6846477	best: 0.6846745 (199)	total: 9.76s	remaining: 38.8s
+300:	test: 0.6862410	best: 0.6862410 (300)	total: 14.6s	remaining: 33.9s
+400:	test: 0.6881160	best: 0.6882094 (393)	total: 19.5s	remaining: 29.2s
+500:	test: 0.6886008	best: 0.6886535 (461)	total: 24.5s	remaining: 24.4s
+600:	test: 0.6891622	best: 0.6892948 (584)	total: 29.5s	remaining: 19.6s
+bestTest = 0.6892948449
+bestIteration = 584
+Shrink model to first 585 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5068348	best: 0.5068348 (0)	total: 45.4ms	remaining: 45.4s
+100:	test: 0.6818417	best: 0.6825048 (87)	total: 4.96s	remaining: 44.1s
+200:	test: 0.6873289	best: 0.6873289 (200)	total: 9.91s	remaining: 39.4s
+300:	test: 0.6887757	best: 0.6892880 (289)	total: 14.8s	remaining: 34.4s
+400:	test: 0.6909870	best: 0.6910361 (398)	total: 19.8s	remaining: 29.5s
+500:	test: 0.6910561	best: 0.6917848 (421)	total: 24.7s	remaining: 24.6s
+bestTest = 0.6917847693
+bestIteration = 421
+Shrink model to first 422 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5068348	best: 0.5068348 (0)	total: 45.4ms	remaining: 45.3s
+100:	test: 0.6881946	best: 0.6889480 (76)	total: 4.82s	remaining: 42.9s
+200:	test: 0.6918959	best: 0.6919303 (193)	total: 9.69s	remaining: 38.5s
+300:	test: 0.6914937	best: 0.6934918 (231)	total: 14.6s	remaining: 33.9s
+bestTest = 0.6934918463
+bestIteration = 231
+Shrink model to first 232 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5044655	best: 0.5044655 (0)	total: 44.7ms	remaining: 44.7s
+100:	test: 0.6537195	best: 0.6537195 (100)	total: 4.69s	remaining: 41.8s
+200:	test: 0.6768943	best: 0.6770523 (198)	total: 9.51s	remaining: 37.8s
+300:	test: 0.6817210	best: 0.6817302 (299)	total: 14.5s	remaining: 33.6s
+400:	test: 0.6841635	best: 0.6841635 (400)	total: 19.4s	remaining: 29s
+500:	test: 0.6855238	best: 0.6856795 (477)	total: 24.4s	remaining: 24.3s
+600:	test: 0.6865470	best: 0.6865548 (596)	total: 29.2s	remaining: 19.4s
+700:	test: 0.6872744	best: 0.6872822 (698)	total: 34s	remaining: 14.5s
+800:	test: 0.6884803	best: 0.6884803 (800)	total: 39s	remaining: 9.68s
+900:	test: 0.6895359	best: 0.6896290 (866)	total: 43.9s	remaining: 4.82s
+999:	test: 0.6898082	best: 0.6898870 (957)	total: 48.8s	remaining: 0us
+bestTest = 0.6898869872
+bestIteration = 957
+Shrink model to first 958 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5044655	best: 0.5044655 (0)	total: 44.9ms	remaining: 44.9s
+100:	test: 0.6738562	best: 0.6738562 (100)	total: 4.82s	remaining: 42.9s
+200:	test: 0.6838530	best: 0.6838723 (189)	total: 9.67s	remaining: 38.4s
+300:	test: 0.6855457	best: 0.6855505 (298)	total: 14.6s	remaining: 33.9s
+400:	test: 0.6884727	best: 0.6885206 (396)	total: 19.5s	remaining: 29.1s
+500:	test: 0.6892649	best: 0.6896213 (474)	total: 24.2s	remaining: 24.1s
+600:	test: 0.6904935	best: 0.6905053 (597)	total: 29s	remaining: 19.3s
+700:	test: 0.6910681	best: 0.6911068 (644)	total: 33.9s	remaining: 14.5s
+800:	test: 0.6916923	best: 0.6918751 (790)	total: 38.7s	remaining: 9.62s
+900:	test: 0.6921971	best: 0.6922882 (858)	total: 43.6s	remaining: 4.79s
+999:	test: 0.6927133	best: 0.6928343 (994)	total: 48.3s	remaining: 0us
+bestTest = 0.6928342581
+bestIteration = 994
+Shrink model to first 995 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5044655	best: 0.5044655 (0)	total: 43.3ms	remaining: 43.3s
+100:	test: 0.6770470	best: 0.6774000 (99)	total: 4.72s	remaining: 42.1s
+200:	test: 0.6844902	best: 0.6847052 (192)	total: 9.51s	remaining: 37.8s
+300:	test: 0.6883301	best: 0.6883301 (300)	total: 14.4s	remaining: 33.5s
+400:	test: 0.6898467	best: 0.6901906 (369)	total: 19.2s	remaining: 28.7s
+bestTest = 0.6901906431
+bestIteration = 369
+Shrink model to first 370 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5044655	best: 0.5044655 (0)	total: 43.9ms	remaining: 43.9s
+100:	test: 0.6829871	best: 0.6830665 (99)	total: 4.8s	remaining: 42.8s
+200:	test: 0.6902417	best: 0.6902417 (200)	total: 9.57s	remaining: 38s
+300:	test: 0.6920653	best: 0.6923103 (289)	total: 14.3s	remaining: 33.2s
+400:	test: 0.6953331	best: 0.6953397 (395)	total: 19.2s	remaining: 28.6s
+500:	test: 0.6950735	best: 0.6954982 (485)	total: 24s	remaining: 23.9s
+bestTest = 0.6954982281
+bestIteration = 485
+Shrink model to first 486 iterations.
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	test: 0.5044655	best: 0.5044655 (0)	total: 44.6ms	remaining: 44.5s
+100:	test: 0.6835829	best: 0.6839426 (89)	total: 4.86s	remaining: 43.3s
+200:	test: 0.6916265	best: 0.6917936 (192)	total: 9.82s	remaining: 39s
+300:	test: 0.6913147	best: 0.6925935 (268)	total: 14.8s	remaining: 34.3s
+bestTest = 0.6925935149
+bestIteration = 268
+Shrink model to first 269 iterations.
